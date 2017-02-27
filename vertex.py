@@ -1,15 +1,14 @@
 import json
-import string
-
 
 
 class Vertex:
-    def __init__(self, node_id, is_actor):
+    def __init__(self, node_id, is_actor, year=-1):
         """
         Created a node that is either an actor or film
         :param node_id: Name/identifier of node
         :param is_actor: Whether the node is an actor or not
         """
+        self.year = year
         self.is_actor = is_actor
         self.node_id = node_id
         self.neighbor = {}
@@ -22,7 +21,7 @@ class Vertex:
         node_type = "Film"
         if self.is_actor:
             node_type = "Actor"
-        return_string = "(" + str(self.node_id) + node_type + "): "
+        return_string = str(self.node_id) + " (" + str(self.year) + "/" + node_type + "): "
         for nodeName in self.neighbor.keys():
             if nodeName is None:
                 continue
@@ -51,13 +50,6 @@ class Vertex:
         """
         return self.node_id
 
-    def is_actor(self):
-        """
-        Getter for is_actor
-        :return: True if self is an actor, False otherwise
-        """
-        return self.is_actor
-
     def get_weight(self, neighbor_node_id):
         """
         Getter for the weight of the edge between this and neighbor_node_id
@@ -67,19 +59,13 @@ class Vertex:
 
         return self.neighbor[neighbor_node_id]
 
-    def store_json(self):
-        """
-        Stores this vertex as JSON
-        :return: The JSON of this object
-        """
-        return json.dumps(self.neighbor)
-
     def open_json(self, in_JSON):
         """
         Restroes the vertex according to JSON
         :param in_JSON: The JSON containing this vertex
         :return: The vertex restored
         """
+        self.year = in_JSON['year']
         self.is_actor = in_JSON['is_actor']
         self.node_id = in_JSON['node_id']
         self.neighbor = in_JSON['neighbor']
