@@ -1,0 +1,470 @@
+INFO:root:Adding vertex: George Clooney
+INFO:root:Adding vertex: George Clooney
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Morgan_Freeman
+INFO:root:Adding vertex: Morgan Freeman
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Brubaker
+INFO:root:Adding vertex: Brubaker
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Marie_(film)
+INFO:root:Adding vertex: None
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Street_Smart_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Street_Smart_(film) did not find information
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Glory_(1989_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Glory_(1989_film) did not find information
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Driving_Miss_Daisy
+INFO:root:Adding vertex: Driving Miss Daisy
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Lean_on_Me_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Lean_on_Me_(film) did not find information
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Johnny_Handsome
+INFO:root:Adding vertex: Johnny Handsome
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Robin_Hood:_Prince_of_Thieves
+INFO:root:Adding vertex: Robin Hood: Prince of Thieves
+INFO:root:Adding vertex: George Clooney
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Morgan_Freeman
+INFO:root:Adding vertex: Morgan Freeman
+INFO:root:Adding vertex: George Clooney
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Morgan_Freeman
+INFO:root:Adding vertex: Morgan Freeman
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Brubaker
+INFO:root:Adding vertex: Brubaker
+INFO:root:Adding vertex: George Clooney
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Morgan_Freeman
+INFO:root:Adding vertex: Morgan Freeman
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Brubaker
+INFO:root:Adding vertex: Brubaker
+INFO:root:Adding vertex: Tom Murton
+INFO:root:Adding vertex: Joe Hyams
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Marie_(film)
+INFO:root:Adding vertex: None
+INFO:root:Adding vertex: Sissy Spacek
+INFO:root:Adding vertex: Jeff Daniels
+INFO:root:Adding vertex: Keith Szarabajka
+INFO:root:Adding vertex: Fred Thompson
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Street_Smart_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Street_Smart_(film) did not find information
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Glory_(1989_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Glory_(1989_film) did not find information
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Driving_Miss_Daisy
+INFO:root:Adding vertex: Driving Miss Daisy
+INFO:root:Adding vertex: Richard D. Zanuck
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Lean_on_Me_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Lean_on_Me_(film) did not find information
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Johnny_Handsome
+INFO:root:Adding vertex: Johnny Handsome
+INFO:root:Adding vertex: Mickey Rourke
+INFO:root:Adding vertex: Ellen Barkin
+INFO:root:Adding vertex: Elizabeth McGovern
+INFO:root:Adding vertex: Forest Whitaker
+INFO:root:Adding vertex: Scott Wilson
+INFO:root:Adding vertex: Lance Henriksen
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Robin_Hood:_Prince_of_Thieves
+INFO:root:Adding vertex: Robin Hood: Prince of Thieves
+INFO:root:Adding vertex: Pen Densham
+INFO:root:Adding vertex: Richard Barton Lewis
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Unforgiven_(1992_film)
+INFO:root:Adding vertex: Unforgiven
+INFO:root:Adding vertex: Gene Hackman
+INFO:root:Adding vertex: Richard Harris
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/The_Shawshank_Redemption
+INFO:root:Adding vertex: The Shawshank Redemption
+INFO:root:Adding vertex: Tim Robbins
+INFO:root:Adding vertex: Bob Gunton
+INFO:root:Adding vertex: William Sadler
+INFO:root:Adding vertex: Clancy Brown
+INFO:root:Adding vertex: Gil Bellows
+INFO:root:Adding vertex: James Whitmore
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Seven_(1995_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Seven_(1995_film) did not find information
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Moll_Flanders_(1996_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Moll_Flanders_(1996_film) did not find information
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Amistad_(1997_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Amistad_(1997_film) did not find information
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Kiss_the_Girls_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Kiss_the_Girls_(film) did not find information
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Deep_Impact_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Deep_Impact_(film) did not find information
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Nurse_Betty
+INFO:root:Adding vertex: Nurse Betty
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Along_Came_a_Spider_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Along_Came_a_Spider_(film) did not find information
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/The_Sum_of_All_Fears_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/The_Sum_of_All_Fears_(film) did not find information
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/High_Crimes
+INFO:root:Adding vertex: High Crimes
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Bruce_Almighty
+INFO:root:Adding vertex: Bruce Almighty
+INFO:root:Adding vertex: Jim Carrey
+INFO:root:Adding vertex: [1]
+INFO:root:Adding vertex: James D. Brubaker
+INFO:root:Adding vertex: Steve Koren
+INFO:root:Adding vertex: Mark O'Keefe
+INFO:root:Adding vertex: George Clooney
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Morgan_Freeman
+INFO:root:Adding vertex: Morgan Freeman
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Brubaker
+INFO:root:Adding vertex: Brubaker
+INFO:root:Adding vertex: Tom Murton
+INFO:root:Adding vertex: Joe Hyams
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Marie_(film)
+INFO:root:Adding vertex: None
+INFO:root:Adding vertex: Sissy Spacek
+INFO:root:Adding vertex: Jeff Daniels
+INFO:root:Adding vertex: Keith Szarabajka
+INFO:root:Adding vertex: Fred Thompson
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Street_Smart_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Street_Smart_(film) did not find information
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Glory_(1989_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Glory_(1989_film) did not find information
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Driving_Miss_Daisy
+INFO:root:Adding vertex: Driving Miss Daisy
+INFO:root:Adding vertex: Richard D. Zanuck
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Lean_on_Me_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Lean_on_Me_(film) did not find information
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Johnny_Handsome
+INFO:root:Adding vertex: Johnny Handsome
+INFO:root:Adding vertex: Mickey Rourke
+INFO:root:Adding vertex: Ellen Barkin
+INFO:root:Adding vertex: Elizabeth McGovern
+INFO:root:Adding vertex: Forest Whitaker
+INFO:root:Adding vertex: Scott Wilson
+INFO:root:Adding vertex: Lance Henriksen
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Robin_Hood:_Prince_of_Thieves
+INFO:root:Adding vertex: Robin Hood: Prince of Thieves
+INFO:root:Adding vertex: Pen Densham
+INFO:root:Adding vertex: Richard Barton Lewis
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Unforgiven_(1992_film)
+INFO:root:Adding vertex: Unforgiven
+INFO:root:Adding vertex: Gene Hackman
+INFO:root:Adding vertex: Richard Harris
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/The_Shawshank_Redemption
+INFO:root:Adding vertex: The Shawshank Redemption
+INFO:root:Adding vertex: Tim Robbins
+INFO:root:Adding vertex: Bob Gunton
+INFO:root:Adding vertex: William Sadler
+INFO:root:Adding vertex: Clancy Brown
+INFO:root:Adding vertex: Gil Bellows
+INFO:root:Adding vertex: James Whitmore
+INFO:root:Adding vertex: George Clooney
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Morgan_Freeman
+INFO:root:Adding vertex: Morgan Freeman
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Brubaker
+INFO:root:Adding vertex: Brubaker
+INFO:root:Adding vertex: Tom Murton
+INFO:root:Adding vertex: Joe Hyams
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Marie_(film)
+INFO:root:Adding vertex: None
+INFO:root:Adding vertex: Sissy Spacek
+INFO:root:Adding vertex: Jeff Daniels
+INFO:root:Adding vertex: Keith Szarabajka
+INFO:root:Adding vertex: Fred Thompson
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Street_Smart_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Street_Smart_(film) did not find information
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Glory_(1989_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Glory_(1989_film) did not find information
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Driving_Miss_Daisy
+INFO:root:Adding vertex: Driving Miss Daisy
+INFO:root:Adding vertex: Richard D. Zanuck
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Lean_on_Me_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Lean_on_Me_(film) did not find information
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Johnny_Handsome
+INFO:root:Adding vertex: Johnny Handsome
+INFO:root:Adding vertex: Mickey Rourke
+INFO:root:Adding vertex: Ellen Barkin
+INFO:root:Adding vertex: Elizabeth McGovern
+INFO:root:Adding vertex: Forest Whitaker
+INFO:root:Adding vertex: Scott Wilson
+INFO:root:Adding vertex: Lance Henriksen
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Robin_Hood:_Prince_of_Thieves
+INFO:root:Adding vertex: Robin Hood: Prince of Thieves
+INFO:root:Adding vertex: Pen Densham
+INFO:root:Adding vertex: Richard Barton Lewis
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Unforgiven_(1992_film)
+INFO:root:Adding vertex: Unforgiven
+INFO:root:Adding vertex: Gene Hackman
+INFO:root:Adding vertex: Richard Harris
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/The_Shawshank_Redemption
+INFO:root:Adding vertex: The Shawshank Redemption
+INFO:root:Adding vertex: Tim Robbins
+INFO:root:Adding vertex: Bob Gunton
+INFO:root:Adding vertex: William Sadler
+INFO:root:Adding vertex: Clancy Brown
+INFO:root:Adding vertex: Gil Bellows
+INFO:root:Adding vertex: James Whitmore
+INFO:root:Adding vertex: George Clooney
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Morgan_Freeman
+INFO:root:Adding vertex: Morgan Freeman
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Brubaker
+INFO:root:Adding vertex: Brubaker
+INFO:root:Adding vertex: Tom Murton
+INFO:root:Adding vertex: Joe Hyams
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Marie_(film)
+INFO:root:Adding vertex: None
+INFO:root:Adding vertex: Sissy Spacek
+INFO:root:Adding vertex: Jeff Daniels
+INFO:root:Adding vertex: Keith Szarabajka
+INFO:root:Adding vertex: Fred Thompson
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Street_Smart_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Street_Smart_(film) did not find information
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Glory_(1989_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Glory_(1989_film) did not find information
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Driving_Miss_Daisy
+INFO:root:Adding vertex: Driving Miss Daisy
+INFO:root:Adding vertex: Richard D. Zanuck
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Lean_on_Me_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Lean_on_Me_(film) did not find information
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Johnny_Handsome
+INFO:root:Adding vertex: Johnny Handsome
+INFO:root:Adding vertex: Mickey Rourke
+INFO:root:Adding vertex: Ellen Barkin
+INFO:root:Adding vertex: Elizabeth McGovern
+INFO:root:Adding vertex: Forest Whitaker
+INFO:root:Adding vertex: Scott Wilson
+INFO:root:Adding vertex: Lance Henriksen
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Robin_Hood:_Prince_of_Thieves
+INFO:root:Adding vertex: Robin Hood: Prince of Thieves
+INFO:root:Adding vertex: Pen Densham
+INFO:root:Adding vertex: Richard Barton Lewis
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Unforgiven_(1992_film)
+INFO:root:Adding vertex: Unforgiven
+INFO:root:Adding vertex: Gene Hackman
+INFO:root:Adding vertex: Richard Harris
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/The_Shawshank_Redemption
+INFO:root:Adding vertex: The Shawshank Redemption
+INFO:root:Adding vertex: Tim Robbins
+INFO:root:Adding vertex: Bob Gunton
+INFO:root:Adding vertex: William Sadler
+INFO:root:Adding vertex: Clancy Brown
+INFO:root:Adding vertex: Gil Bellows
+INFO:root:Adding vertex: James Whitmore
+INFO:root:Adding vertex: George Clooney
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Morgan_Freeman
+INFO:root:Adding vertex: Morgan Freeman
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Brubaker
+INFO:root:Adding vertex: Brubaker
+INFO:root:Adding vertex: Tom Murton
+INFO:root:Adding vertex: Joe Hyams
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Marie_(film)
+INFO:root:Adding vertex: None
+INFO:root:Adding vertex: Sissy Spacek
+INFO:root:Adding vertex: Jeff Daniels
+INFO:root:Adding vertex: Keith Szarabajka
+INFO:root:Adding vertex: Fred Thompson
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Street_Smart_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Street_Smart_(film) did not find information
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Glory_(1989_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Glory_(1989_film) did not find information
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Driving_Miss_Daisy
+INFO:root:Adding vertex: Driving Miss Daisy
+INFO:root:Adding vertex: Richard D. Zanuck
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Lean_on_Me_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Lean_on_Me_(film) did not find information
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Johnny_Handsome
+INFO:root:Adding vertex: Johnny Handsome
+INFO:root:Adding vertex: Mickey Rourke
+INFO:root:Adding vertex: Ellen Barkin
+INFO:root:Adding vertex: Elizabeth McGovern
+INFO:root:Adding vertex: Forest Whitaker
+INFO:root:Adding vertex: Scott Wilson
+INFO:root:Adding vertex: Lance Henriksen
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Robin_Hood:_Prince_of_Thieves
+INFO:root:Adding vertex: Robin Hood: Prince of Thieves
+INFO:root:Adding vertex: Pen Densham
+INFO:root:Adding vertex: Richard Barton Lewis
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Unforgiven_(1992_film)
+INFO:root:Adding vertex: Unforgiven
+INFO:root:Adding vertex: Gene Hackman
+INFO:root:Adding vertex: Richard Harris
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/The_Shawshank_Redemption
+INFO:root:Adding vertex: The Shawshank Redemption
+INFO:root:Adding vertex: Tim Robbins
+INFO:root:Adding vertex: Bob Gunton
+INFO:root:Adding vertex: William Sadler
+INFO:root:Adding vertex: Clancy Brown
+INFO:root:Adding vertex: Gil Bellows
+INFO:root:Adding vertex: James Whitmore
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Morgan_Freeman
+INFO:root:Adding vertex: Morgan Freeman
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Brubaker
+INFO:root:Adding vertex: Brubaker
+INFO:root:Adding vertex: Tom Murton
+INFO:root:Adding vertex: Joe Hyams
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Marie_(film)
+INFO:root:Adding vertex: None
+INFO:root:Adding vertex: Sissy Spacek
+INFO:root:Adding vertex: Jeff Daniels
+INFO:root:Adding vertex: Keith Szarabajka
+INFO:root:Adding vertex: Fred Thompson
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Street_Smart_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Street_Smart_(film) did not find information
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Glory_(1989_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Glory_(1989_film) did not find information
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Driving_Miss_Daisy
+INFO:root:Adding vertex: Driving Miss Daisy
+INFO:root:Adding vertex: Richard D. Zanuck
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Lean_on_Me_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Lean_on_Me_(film) did not find information
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Johnny_Handsome
+INFO:root:Adding vertex: Johnny Handsome
+INFO:root:Adding vertex: Mickey Rourke
+INFO:root:Adding vertex: Ellen Barkin
+INFO:root:Adding vertex: Elizabeth McGovern
+INFO:root:Adding vertex: Forest Whitaker
+INFO:root:Adding vertex: Scott Wilson
+INFO:root:Adding vertex: Lance Henriksen
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Robin_Hood:_Prince_of_Thieves
+INFO:root:Adding vertex: Robin Hood: Prince of Thieves
+INFO:root:Adding vertex: Pen Densham
+INFO:root:Adding vertex: Richard Barton Lewis
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Unforgiven_(1992_film)
+INFO:root:Adding vertex: Unforgiven
+INFO:root:Adding vertex: Gene Hackman
+INFO:root:Adding vertex: Richard Harris
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/The_Shawshank_Redemption
+INFO:root:Adding vertex: The Shawshank Redemption
+INFO:root:Adding vertex: Tim Robbins
+INFO:root:Adding vertex: Bob Gunton
+INFO:root:Adding vertex: William Sadler
+INFO:root:Adding vertex: Clancy Brown
+INFO:root:Adding vertex: Gil Bellows
+INFO:root:Adding vertex: James Whitmore
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Morgan_Freeman
+INFO:root:Adding vertex: Morgan Freeman
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Brubaker
+INFO:root:Adding vertex: Brubaker
+INFO:root:Adding vertex: Tom Murton
+INFO:root:Adding vertex: Joe Hyams
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Marie_(film)
+INFO:root:Adding vertex: None
+INFO:root:Adding vertex: Sissy Spacek
+INFO:root:Adding vertex: Jeff Daniels
+INFO:root:Adding vertex: Keith Szarabajka
+INFO:root:Adding vertex: Fred Thompson
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Street_Smart_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Street_Smart_(film) did not find information
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Glory_(1989_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Glory_(1989_film) did not find information
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Driving_Miss_Daisy
+INFO:root:Adding vertex: Driving Miss Daisy
+INFO:root:Adding vertex: Richard D. Zanuck
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Lean_on_Me_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Lean_on_Me_(film) did not find information
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Johnny_Handsome
+INFO:root:Adding vertex: Johnny Handsome
+INFO:root:Adding vertex: Mickey Rourke
+INFO:root:Adding vertex: Ellen Barkin
+INFO:root:Adding vertex: Elizabeth McGovern
+INFO:root:Adding vertex: Forest Whitaker
+INFO:root:Adding vertex: Scott Wilson
+INFO:root:Adding vertex: Lance Henriksen
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Robin_Hood:_Prince_of_Thieves
+INFO:root:Adding vertex: Robin Hood: Prince of Thieves
+INFO:root:Adding vertex: Pen Densham
+INFO:root:Adding vertex: Richard Barton Lewis
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/Unforgiven_(1992_film)
+INFO:root:Adding vertex: Unforgiven
+INFO:root:Adding vertex: Gene Hackman
+INFO:root:Adding vertex: Richard Harris
+DEBUG:root:Current link: https://en.wikipedia.org/wiki/The_Shawshank_Redemption
+INFO:root:Adding vertex: The Shawshank Redemption
+INFO:root:Adding vertex: Tim Robbins
+INFO:root:Adding vertex: Bob Gunton
+INFO:root:Adding vertex: William Sadler
+INFO:root:Adding vertex: Clancy Brown
+INFO:root:Adding vertex: Gil Bellows
+INFO:root:Adding vertex: James Whitmore
+DEBUG:root:Current cycle: 0 Current Link: https://en.wikipedia.org/wiki/Morgan_Freeman
+INFO:root:Adding vertex: Morgan Freeman
+DEBUG:root:Current cycle: 1 Current Link: https://en.wikipedia.org/wiki/Brubaker
+INFO:root:Adding vertex: Brubaker
+INFO:root:Adding vertex: Tom Murton
+INFO:root:Adding vertex: Joe Hyams
+DEBUG:root:Current cycle: 2 Current Link: https://en.wikipedia.org/wiki/Marie_(film)
+INFO:root:Adding vertex: None
+INFO:root:Adding vertex: Sissy Spacek
+INFO:root:Adding vertex: Jeff Daniels
+INFO:root:Adding vertex: Keith Szarabajka
+INFO:root:Adding vertex: Fred Thompson
+DEBUG:root:Current cycle: 3 Current Link: https://en.wikipedia.org/wiki/Street_Smart_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Street_Smart_(film) did not find information
+DEBUG:root:Current cycle: 4 Current Link: https://en.wikipedia.org/wiki/Glory_(1989_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Glory_(1989_film) did not find information
+DEBUG:root:Current cycle: 5 Current Link: https://en.wikipedia.org/wiki/Driving_Miss_Daisy
+INFO:root:Adding vertex: Driving Miss Daisy
+INFO:root:Adding vertex: Richard D. Zanuck
+DEBUG:root:Current cycle: 6 Current Link: https://en.wikipedia.org/wiki/Lean_on_Me_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Lean_on_Me_(film) did not find information
+DEBUG:root:Current cycle: 7 Current Link: https://en.wikipedia.org/wiki/Johnny_Handsome
+INFO:root:Adding vertex: Johnny Handsome
+INFO:root:Adding vertex: Mickey Rourke
+INFO:root:Adding vertex: Ellen Barkin
+INFO:root:Adding vertex: Elizabeth McGovern
+INFO:root:Adding vertex: Forest Whitaker
+INFO:root:Adding vertex: Scott Wilson
+INFO:root:Adding vertex: Lance Henriksen
+DEBUG:root:Current cycle: 8 Current Link: https://en.wikipedia.org/wiki/Robin_Hood:_Prince_of_Thieves
+INFO:root:Adding vertex: Robin Hood: Prince of Thieves
+INFO:root:Adding vertex: Pen Densham
+INFO:root:Adding vertex: Richard Barton Lewis
+DEBUG:root:Current cycle: 9 Current Link: https://en.wikipedia.org/wiki/Unforgiven_(1992_film)
+INFO:root:Adding vertex: Unforgiven
+INFO:root:Adding vertex: Gene Hackman
+INFO:root:Adding vertex: Richard Harris
+DEBUG:root:Current cycle: 10 Current Link: https://en.wikipedia.org/wiki/The_Shawshank_Redemption
+INFO:root:Adding vertex: The Shawshank Redemption
+INFO:root:Adding vertex: Tim Robbins
+INFO:root:Adding vertex: Bob Gunton
+INFO:root:Adding vertex: William Sadler
+INFO:root:Adding vertex: Clancy Brown
+INFO:root:Adding vertex: Gil Bellows
+INFO:root:Adding vertex: James Whitmore
+DEBUG:root:Current cycle: 11 Current Link: https://en.wikipedia.org/wiki/Seven_(1995_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Seven_(1995_film) did not find information
+DEBUG:root:Current cycle: 12 Current Link: https://en.wikipedia.org/wiki/Moll_Flanders_(1996_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Moll_Flanders_(1996_film) did not find information
+DEBUG:root:Current cycle: 13 Current Link: https://en.wikipedia.org/wiki/Amistad_(1997_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Amistad_(1997_film) did not find information
+DEBUG:root:Current cycle: 14 Current Link: https://en.wikipedia.org/wiki/Kiss_the_Girls_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Kiss_the_Girls_(film) did not find information
+DEBUG:root:Current cycle: 15 Current Link: https://en.wikipedia.org/wiki/Deep_Impact_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Deep_Impact_(film) did not find information
+DEBUG:root:Current cycle: 16 Current Link: https://en.wikipedia.org/wiki/Nurse_Betty
+INFO:root:Adding vertex: Nurse Betty
+DEBUG:root:Current cycle: 17 Current Link: https://en.wikipedia.org/wiki/Along_Came_a_Spider_(film)
