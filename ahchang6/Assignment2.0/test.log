@@ -1088,3 +1088,360 @@ INFO:root:Adding vertex: Fireflies in the Garden
 DEBUG:root:Current cycle: 1 Current Link: https://en.wikipedia.org/wiki/Adventureland_(film)
 INFO:root:Adding vertex: None
 ERROR:root:Link: https://en.wikipedia.org/wiki/Adventureland_(film) did not find information
+DEBUG:root:Current cycle: 20 Current Link: https://en.wikipedia.org/wiki/Ryan_Reynolds
+INFO:root:Adding vertex: Ryan Reynolds
+DEBUG:root:Current cycle: 19 Current Link: https://en.wikipedia.org/wiki/Ordinary_Magic
+INFO:root:Adding vertex: Ordinary Magic
+INFO:root:Adding vertex: None
+DEBUG:root:Current cycle: 18 Current Link: https://en.wikipedia.org/wiki/Sabrina_the_Teenage_Witch_(film)
+INFO:root:Adding vertex: None
+INFO:root:Adding vertex: Melissa Joan Hart
+INFO:root:Adding vertex: Sabrina Sawyer
+INFO:root:Adding vertex: Sherry Miller
+INFO:root:Adding vertex: Aunt Hilda
+INFO:root:Adding vertex: Charlene Fernetz
+INFO:root:Adding vertex: Aunt Zelda
+INFO:root:Adding vertex: Michelle Beaudoin
+INFO:root:Adding vertex: Tobias Mehler
+INFO:root:Adding vertex: Harvey
+INFO:root:Adding vertex: Lalainia Lindbjerg
+INFO:root:Adding vertex: Laura Harris
+INFO:root:Adding vertex: Tyler Labine
+DEBUG:root:Current cycle: 17 Current Link: https://en.wikipedia.org/wiki/Coming_Soon_(1999_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Coming_Soon_(1999_film) did not find information
+DEBUG:root:Current cycle: 16 Current Link: https://en.wikipedia.org/wiki/Dick_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Dick_(film) did not find information
+DEBUG:root:Current cycle: 15 Current Link: https://en.wikipedia.org/wiki/Finder%27s_Fee
+INFO:root:Adding vertex: Finder's Fee
+DEBUG:root:Current cycle: 14 Current Link: https://en.wikipedia.org/wiki/Van_Wilder
+INFO:root:Adding vertex: Van Wilder
+INFO:root:Adding vertex: Peter Abrams
+INFO:root:Adding vertex: Robert L. Levy
+DEBUG:root:Current cycle: 13 Current Link: https://en.wikipedia.org/wiki/Buying_the_Cow
+INFO:root:Adding vertex: Buying the Cow
+INFO:root:Adding vertex: Jerry O'Connell
+INFO:root:Adding vertex: Bridgette Wilson
+INFO:root:Adding vertex: Alyssa Milano
+INFO:root:Adding vertex: Annabeth Gish
+DEBUG:root:Current cycle: 12 Current Link: https://en.wikipedia.org/wiki/The_In-Laws_(2003_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/The_In-Laws_(2003_film) did not find information
+DEBUG:root:Current cycle: 11 Current Link: https://en.wikipedia.org/wiki/Foolproof_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Foolproof_(film) did not find information
+DEBUG:root:Current cycle: 10 Current Link: https://en.wikipedia.org/wiki/Blade:_Trinity
+INFO:root:Adding vertex: Blade: Trinity
+INFO:root:Adding vertex: Wesley Snipes
+INFO:root:Adding vertex: Lynn Harris
+DEBUG:root:Current cycle: 9 Current Link: https://en.wikipedia.org/wiki/The_Amityville_Horror_(2005_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/The_Amityville_Horror_(2005_film) did not find information
+DEBUG:root:Current cycle: 8 Current Link: https://en.wikipedia.org/wiki/Waiting..._(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Waiting..._(film) did not find information
+DEBUG:root:Current cycle: 7 Current Link: https://en.wikipedia.org/wiki/Just_Friends
+INFO:root:Adding vertex: Just Friends
+INFO:root:Adding vertex: Chris Bender
+DEBUG:root:Current cycle: 6 Current Link: https://en.wikipedia.org/wiki/Smokin%27_Aces
+INFO:root:Adding vertex: Smokin' Aces
+DEBUG:root:Current cycle: 5 Current Link: https://en.wikipedia.org/wiki/The_Nines
+INFO:root:Adding vertex: The Nines
+DEBUG:root:Current cycle: 4 Current Link: https://en.wikipedia.org/wiki/Chaos_Theory_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Chaos_Theory_(film) did not find information
+DEBUG:root:Current cycle: 3 Current Link: https://en.wikipedia.org/wiki/Definitely,_Maybe
+INFO:root:Adding vertex: Definitely, Maybe
+INFO:root:Adding vertex: Tim Bevan
+INFO:root:Adding vertex: Eric Fellner
+DEBUG:root:Current cycle: 2 Current Link: https://en.wikipedia.org/wiki/Fireflies_in_the_Garden
+INFO:root:Adding vertex: Fireflies in the Garden
+DEBUG:root:Current cycle: 1 Current Link: https://en.wikipedia.org/wiki/Adventureland_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Adventureland_(film) did not find information
+DEBUG:root:Current cycle: 20 Current Link: https://en.wikipedia.org/wiki/Ryan_Reynolds
+INFO:root:Adding vertex: Ryan Reynolds
+DEBUG:root:Current cycle: 19 Current Link: https://en.wikipedia.org/wiki/Ordinary_Magic
+INFO:root:Adding vertex: Ordinary Magic
+INFO:root:Adding vertex: None
+DEBUG:root:Current cycle: 18 Current Link: https://en.wikipedia.org/wiki/Sabrina_the_Teenage_Witch_(film)
+INFO:root:Adding vertex: None
+INFO:root:Adding vertex: Melissa Joan Hart
+INFO:root:Adding vertex: Sabrina Sawyer
+INFO:root:Adding vertex: Sherry Miller
+INFO:root:Adding vertex: Aunt Hilda
+INFO:root:Adding vertex: Charlene Fernetz
+INFO:root:Adding vertex: Aunt Zelda
+INFO:root:Adding vertex: Michelle Beaudoin
+INFO:root:Adding vertex: Tobias Mehler
+INFO:root:Adding vertex: Harvey
+INFO:root:Adding vertex: Lalainia Lindbjerg
+INFO:root:Adding vertex: Laura Harris
+INFO:root:Adding vertex: Tyler Labine
+DEBUG:root:Current cycle: 17 Current Link: https://en.wikipedia.org/wiki/Coming_Soon_(1999_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Coming_Soon_(1999_film) did not find information
+DEBUG:root:Current cycle: 16 Current Link: https://en.wikipedia.org/wiki/Dick_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Dick_(film) did not find information
+DEBUG:root:Current cycle: 15 Current Link: https://en.wikipedia.org/wiki/Finder%27s_Fee
+INFO:root:Adding vertex: Finder's Fee
+DEBUG:root:Current cycle: 14 Current Link: https://en.wikipedia.org/wiki/Van_Wilder
+INFO:root:Adding vertex: Van Wilder
+INFO:root:Adding vertex: Peter Abrams
+INFO:root:Adding vertex: Robert L. Levy
+DEBUG:root:Current cycle: 13 Current Link: https://en.wikipedia.org/wiki/Buying_the_Cow
+INFO:root:Adding vertex: Buying the Cow
+INFO:root:Adding vertex: Jerry O'Connell
+INFO:root:Adding vertex: Bridgette Wilson
+INFO:root:Adding vertex: Alyssa Milano
+INFO:root:Adding vertex: Annabeth Gish
+DEBUG:root:Current cycle: 12 Current Link: https://en.wikipedia.org/wiki/The_In-Laws_(2003_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/The_In-Laws_(2003_film) did not find information
+DEBUG:root:Current cycle: 11 Current Link: https://en.wikipedia.org/wiki/Foolproof_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Foolproof_(film) did not find information
+DEBUG:root:Current cycle: 10 Current Link: https://en.wikipedia.org/wiki/Blade:_Trinity
+INFO:root:Adding vertex: Blade: Trinity
+INFO:root:Adding vertex: Wesley Snipes
+INFO:root:Adding vertex: Lynn Harris
+DEBUG:root:Current cycle: 9 Current Link: https://en.wikipedia.org/wiki/The_Amityville_Horror_(2005_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/The_Amityville_Horror_(2005_film) did not find information
+DEBUG:root:Current cycle: 8 Current Link: https://en.wikipedia.org/wiki/Waiting..._(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Waiting..._(film) did not find information
+DEBUG:root:Current cycle: 7 Current Link: https://en.wikipedia.org/wiki/Just_Friends
+INFO:root:Adding vertex: Just Friends
+INFO:root:Adding vertex: Chris Bender
+DEBUG:root:Current cycle: 6 Current Link: https://en.wikipedia.org/wiki/Smokin%27_Aces
+INFO:root:Adding vertex: Smokin' Aces
+DEBUG:root:Current cycle: 5 Current Link: https://en.wikipedia.org/wiki/The_Nines
+INFO:root:Adding vertex: The Nines
+DEBUG:root:Current cycle: 4 Current Link: https://en.wikipedia.org/wiki/Chaos_Theory_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Chaos_Theory_(film) did not find information
+DEBUG:root:Current cycle: 3 Current Link: https://en.wikipedia.org/wiki/Definitely,_Maybe
+INFO:root:Adding vertex: Definitely, Maybe
+INFO:root:Adding vertex: Tim Bevan
+INFO:root:Adding vertex: Eric Fellner
+DEBUG:root:Current cycle: 2 Current Link: https://en.wikipedia.org/wiki/Fireflies_in_the_Garden
+INFO:root:Adding vertex: Fireflies in the Garden
+DEBUG:root:Current cycle: 1 Current Link: https://en.wikipedia.org/wiki/Adventureland_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Adventureland_(film) did not find information
+DEBUG:root:Current cycle: 30 Current Link: https://en.wikipedia.org/wiki/Ryan_Reynolds
+INFO:root:Adding vertex: Ryan Reynolds
+DEBUG:root:Current cycle: 29 Current Link: https://en.wikipedia.org/wiki/Ordinary_Magic
+INFO:root:Adding vertex: Ordinary Magic
+INFO:root:Adding vertex: None
+DEBUG:root:Current cycle: 30 Current Link: https://en.wikipedia.org/wiki/Ryan_Reynolds
+INFO:root:Adding vertex: Ryan Reynolds
+DEBUG:root:Current cycle: 29 Current Link: https://en.wikipedia.org/wiki/Ordinary_Magic
+INFO:root:Adding vertex: Ordinary Magic
+INFO:root:Adding vertex: None
+DEBUG:root:Current cycle: 28 Current Link: https://en.wikipedia.org/wiki/Sabrina_the_Teenage_Witch_(film)
+INFO:root:Adding vertex: None
+INFO:root:Adding vertex: Melissa Joan Hart
+INFO:root:Adding vertex: Sabrina Sawyer
+INFO:root:Adding vertex: Sherry Miller
+INFO:root:Adding vertex: Aunt Hilda
+INFO:root:Adding vertex: Charlene Fernetz
+INFO:root:Adding vertex: Aunt Zelda
+INFO:root:Adding vertex: Michelle Beaudoin
+INFO:root:Adding vertex: Tobias Mehler
+INFO:root:Adding vertex: Harvey
+INFO:root:Adding vertex: Lalainia Lindbjerg
+INFO:root:Adding vertex: Laura Harris
+INFO:root:Adding vertex: Tyler Labine
+DEBUG:root:Current cycle: 27 Current Link: https://en.wikipedia.org/wiki/Coming_Soon_(1999_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Coming_Soon_(1999_film) did not find information
+DEBUG:root:Current cycle: 26 Current Link: https://en.wikipedia.org/wiki/Dick_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Dick_(film) did not find information
+DEBUG:root:Current cycle: 25 Current Link: https://en.wikipedia.org/wiki/Finder%27s_Fee
+INFO:root:Adding vertex: Finder's Fee
+DEBUG:root:Current cycle: 24 Current Link: https://en.wikipedia.org/wiki/Van_Wilder
+INFO:root:Adding vertex: Van Wilder
+INFO:root:Adding vertex: Peter Abrams
+INFO:root:Adding vertex: Robert L. Levy
+DEBUG:root:Current cycle: 23 Current Link: https://en.wikipedia.org/wiki/Buying_the_Cow
+INFO:root:Adding vertex: Buying the Cow
+INFO:root:Adding vertex: Jerry O'Connell
+INFO:root:Adding vertex: Bridgette Wilson
+INFO:root:Adding vertex: Alyssa Milano
+INFO:root:Adding vertex: Annabeth Gish
+DEBUG:root:Current cycle: 22 Current Link: https://en.wikipedia.org/wiki/The_In-Laws_(2003_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/The_In-Laws_(2003_film) did not find information
+DEBUG:root:Current cycle: 21 Current Link: https://en.wikipedia.org/wiki/Foolproof_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Foolproof_(film) did not find information
+DEBUG:root:Current cycle: 20 Current Link: https://en.wikipedia.org/wiki/Blade:_Trinity
+INFO:root:Adding vertex: Blade: Trinity
+INFO:root:Adding vertex: Wesley Snipes
+INFO:root:Adding vertex: Lynn Harris
+DEBUG:root:Current cycle: 19 Current Link: https://en.wikipedia.org/wiki/The_Amityville_Horror_(2005_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/The_Amityville_Horror_(2005_film) did not find information
+DEBUG:root:Current cycle: 18 Current Link: https://en.wikipedia.org/wiki/Waiting..._(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Waiting..._(film) did not find information
+DEBUG:root:Current cycle: 17 Current Link: https://en.wikipedia.org/wiki/Just_Friends
+INFO:root:Adding vertex: Just Friends
+INFO:root:Adding vertex: Chris Bender
+DEBUG:root:Current cycle: 16 Current Link: https://en.wikipedia.org/wiki/Smokin%27_Aces
+INFO:root:Adding vertex: Smokin' Aces
+DEBUG:root:Current cycle: 15 Current Link: https://en.wikipedia.org/wiki/The_Nines
+INFO:root:Adding vertex: The Nines
+DEBUG:root:Current cycle: 14 Current Link: https://en.wikipedia.org/wiki/Chaos_Theory_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Chaos_Theory_(film) did not find information
+DEBUG:root:Current cycle: 13 Current Link: https://en.wikipedia.org/wiki/Definitely,_Maybe
+INFO:root:Adding vertex: Definitely, Maybe
+INFO:root:Adding vertex: Tim Bevan
+INFO:root:Adding vertex: Eric Fellner
+DEBUG:root:Current cycle: 12 Current Link: https://en.wikipedia.org/wiki/Fireflies_in_the_Garden
+INFO:root:Adding vertex: Fireflies in the Garden
+DEBUG:root:Current cycle: 11 Current Link: https://en.wikipedia.org/wiki/Adventureland_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Adventureland_(film) did not find information
+DEBUG:root:Current cycle: 10 Current Link: https://en.wikipedia.org/wiki/X-Men_Origins:_Wolverine
+INFO:root:Adding vertex: X-Men Origins: Wolverine
+INFO:root:Adding vertex: Lauren Shuler Donner
+INFO:root:Adding vertex: Ralph Winter
+INFO:root:Adding vertex: Hugh Jackman
+DEBUG:root:Current cycle: 9 Current Link: https://en.wikipedia.org/wiki/The_Proposal_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/The_Proposal_(film) did not find information
+DEBUG:root:Current cycle: 8 Current Link: https://en.wikipedia.org/wiki/Paper_Man_(2009_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Paper_Man_(2009_film) did not find information
+DEBUG:root:Current cycle: 7 Current Link: https://en.wikipedia.org/wiki/Buried_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Buried_(film) did not find information
+DEBUG:root:Current cycle: 6 Current Link: https://en.wikipedia.org/wiki/Green_Lantern_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Green_Lantern_(film) did not find information
+DEBUG:root:Current cycle: 5 Current Link: https://en.wikipedia.org/wiki/The_Change-Up
+INFO:root:Adding vertex: The Change-Up
+INFO:root:Adding vertex: Neal H. Moritz
+DEBUG:root:Current cycle: 4 Current Link: https://en.wikipedia.org/wiki/The_Whale_(2011_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/The_Whale_(2011_film) did not find information
+DEBUG:root:Current cycle: 3 Current Link: https://en.wikipedia.org/wiki/Safe_House_(2012_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Safe_House_(2012_film) did not find information
+DEBUG:root:Current cycle: 2 Current Link: https://en.wikipedia.org/wiki/Ted_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Ted_(film) did not find information
+DEBUG:root:Current cycle: 1 Current Link: https://en.wikipedia.org/wiki/The_Croods
+INFO:root:Adding vertex: The Croods
+INFO:root:Adding vertex: Berlin
+DEBUG:root:Current cycle: 30 Current Link: https://en.wikipedia.org/wiki/Ryan_Reynolds
+INFO:root:Adding vertex: Ryan Reynolds
+DEBUG:root:Current cycle: 29 Current Link: https://en.wikipedia.org/wiki/Ordinary_Magic
+INFO:root:Adding vertex: Ordinary Magic
+INFO:root:Adding vertex: None
+DEBUG:root:Current cycle: 28 Current Link: https://en.wikipedia.org/wiki/Sabrina_the_Teenage_Witch_(film)
+INFO:root:Adding vertex: None
+INFO:root:Adding vertex: Melissa Joan Hart
+INFO:root:Adding vertex: Sabrina Sawyer
+INFO:root:Adding vertex: Sherry Miller
+INFO:root:Adding vertex: Aunt Hilda
+INFO:root:Adding vertex: Charlene Fernetz
+INFO:root:Adding vertex: Aunt Zelda
+INFO:root:Adding vertex: Michelle Beaudoin
+INFO:root:Adding vertex: Tobias Mehler
+INFO:root:Adding vertex: Harvey
+INFO:root:Adding vertex: Lalainia Lindbjerg
+INFO:root:Adding vertex: Laura Harris
+INFO:root:Adding vertex: Tyler Labine
+DEBUG:root:Current cycle: 27 Current Link: https://en.wikipedia.org/wiki/Coming_Soon_(1999_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Coming_Soon_(1999_film) did not find information
+DEBUG:root:Current cycle: 26 Current Link: https://en.wikipedia.org/wiki/Dick_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Dick_(film) did not find information
+DEBUG:root:Current cycle: 25 Current Link: https://en.wikipedia.org/wiki/Finder%27s_Fee
+INFO:root:Adding vertex: Finder's Fee
+DEBUG:root:Current cycle: 24 Current Link: https://en.wikipedia.org/wiki/Van_Wilder
+INFO:root:Adding vertex: Van Wilder
+INFO:root:Adding vertex: Peter Abrams
+INFO:root:Adding vertex: Robert L. Levy
+DEBUG:root:Current cycle: 23 Current Link: https://en.wikipedia.org/wiki/Buying_the_Cow
+INFO:root:Adding vertex: Buying the Cow
+INFO:root:Adding vertex: Jerry O'Connell
+INFO:root:Adding vertex: Bridgette Wilson
+INFO:root:Adding vertex: Alyssa Milano
+INFO:root:Adding vertex: Annabeth Gish
+DEBUG:root:Current cycle: 22 Current Link: https://en.wikipedia.org/wiki/The_In-Laws_(2003_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/The_In-Laws_(2003_film) did not find information
+DEBUG:root:Current cycle: 21 Current Link: https://en.wikipedia.org/wiki/Foolproof_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Foolproof_(film) did not find information
+DEBUG:root:Current cycle: 20 Current Link: https://en.wikipedia.org/wiki/Blade:_Trinity
+INFO:root:Adding vertex: Blade: Trinity
+INFO:root:Adding vertex: Wesley Snipes
+INFO:root:Adding vertex: Lynn Harris
+DEBUG:root:Current cycle: 19 Current Link: https://en.wikipedia.org/wiki/The_Amityville_Horror_(2005_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/The_Amityville_Horror_(2005_film) did not find information
+DEBUG:root:Current cycle: 18 Current Link: https://en.wikipedia.org/wiki/Waiting..._(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Waiting..._(film) did not find information
+DEBUG:root:Current cycle: 17 Current Link: https://en.wikipedia.org/wiki/Just_Friends
+INFO:root:Adding vertex: Just Friends
+INFO:root:Adding vertex: Chris Bender
+DEBUG:root:Current cycle: 16 Current Link: https://en.wikipedia.org/wiki/Smokin%27_Aces
+INFO:root:Adding vertex: Smokin' Aces
+DEBUG:root:Current cycle: 15 Current Link: https://en.wikipedia.org/wiki/The_Nines
+INFO:root:Adding vertex: The Nines
+DEBUG:root:Current cycle: 14 Current Link: https://en.wikipedia.org/wiki/Chaos_Theory_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Chaos_Theory_(film) did not find information
+DEBUG:root:Current cycle: 13 Current Link: https://en.wikipedia.org/wiki/Definitely,_Maybe
+INFO:root:Adding vertex: Definitely, Maybe
+INFO:root:Adding vertex: Tim Bevan
+INFO:root:Adding vertex: Eric Fellner
+DEBUG:root:Current cycle: 12 Current Link: https://en.wikipedia.org/wiki/Fireflies_in_the_Garden
+INFO:root:Adding vertex: Fireflies in the Garden
+DEBUG:root:Current cycle: 11 Current Link: https://en.wikipedia.org/wiki/Adventureland_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Adventureland_(film) did not find information
+DEBUG:root:Current cycle: 10 Current Link: https://en.wikipedia.org/wiki/X-Men_Origins:_Wolverine
+INFO:root:Adding vertex: X-Men Origins: Wolverine
+INFO:root:Adding vertex: Lauren Shuler Donner
+INFO:root:Adding vertex: Ralph Winter
+INFO:root:Adding vertex: Hugh Jackman
+DEBUG:root:Current cycle: 9 Current Link: https://en.wikipedia.org/wiki/The_Proposal_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/The_Proposal_(film) did not find information
+DEBUG:root:Current cycle: 8 Current Link: https://en.wikipedia.org/wiki/Paper_Man_(2009_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Paper_Man_(2009_film) did not find information
+DEBUG:root:Current cycle: 7 Current Link: https://en.wikipedia.org/wiki/Buried_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Buried_(film) did not find information
+DEBUG:root:Current cycle: 6 Current Link: https://en.wikipedia.org/wiki/Green_Lantern_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Green_Lantern_(film) did not find information
+DEBUG:root:Current cycle: 5 Current Link: https://en.wikipedia.org/wiki/The_Change-Up
+INFO:root:Adding vertex: The Change-Up
+INFO:root:Adding vertex: Neal H. Moritz
+DEBUG:root:Current cycle: 4 Current Link: https://en.wikipedia.org/wiki/The_Whale_(2011_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/The_Whale_(2011_film) did not find information
+DEBUG:root:Current cycle: 3 Current Link: https://en.wikipedia.org/wiki/Safe_House_(2012_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Safe_House_(2012_film) did not find information
+DEBUG:root:Current cycle: 2 Current Link: https://en.wikipedia.org/wiki/Ted_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Ted_(film) did not find information
+DEBUG:root:Current cycle: 1 Current Link: https://en.wikipedia.org/wiki/The_Croods
+INFO:root:Adding vertex: The Croods
+INFO:root:Adding vertex: Berlin
