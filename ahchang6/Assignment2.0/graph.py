@@ -1,7 +1,6 @@
 from vertex import Vertex
 import logging
 import json
-import string
 
 
 class Graph:
@@ -32,19 +31,24 @@ class Graph:
             return_string += "[ " + str(nodeName) + " ] "
         return return_string
 
-    def add_vertex(self, node, is_actor):
+    def add_vertex(self, node, is_actor, year):
         """
         Adds a vertex with the node_id of node
         :param node: The node_id/header
         :param is_actor: If node is an actor
+        :param year: Year or film or actor
         :return: The added vertex
         """
         logging.info("Adding vertex: " + str(node))
         if node in self.vertex_list.keys():
-            return None
+            if self.vertex_list[node].year == 0 and year != 0:
+                self.vertex_list[node].year = year
+            else:
+                return None
+
         self.graph_size += 1
 
-        new_vertex = Vertex(node, is_actor)
+        new_vertex = Vertex(node, is_actor, year)
         if new_vertex is None:
             return None
 
@@ -59,9 +63,9 @@ class Graph:
         :param weight: The weight of the directed edge
         """
         if source not in self.vertex_list.keys():
-            self.add_vertex(source, True)
+            self.add_vertex(source, True, 0)
         if dest not in self.vertex_list.keys():
-            self.add_vertex(dest, True)
+            self.add_vertex(dest, True, 0)
         vertex = self.vertex_list[source]
         vertex.add_neighbor(dest, weight)
 
@@ -97,7 +101,7 @@ class Graph:
         self.graph_size=parsed_dict['graph_size']
         parsed_dict = parsed_dict['vertex_list']
         for key in parsed_dict.keys():
-            vertex = Vertex(key, False)
+            vertex = Vertex(key, False, 0000)
             self.vertex_list[key] = vertex.open_json(parsed_dict[key])
         return self
 
