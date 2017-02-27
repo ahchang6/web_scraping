@@ -1,15 +1,23 @@
 from bs4 import BeautifulSoup
 from graph import Graph
 from vertex import Vertex
+from actor_spider import ActorSpider
 import scrapy
+import logging
+from scraper import Scraper
 
 
-graph = Graph()
-b = graph.add_vertex('George Clooney')
-b.add_neighbor('a', 20)
-a = Vertex('a')
-a.add_neighbor('George Clooney', 10)
-graph.add_undirected_edge('a', 'George Clooney',20)
-soup = BeautifulSoup(r)
+logging.basicConfig(filename='test.log', level=logging.DEBUG)
+
+
+
+
+test = Scraper('https://en.wikipedia.org/wiki/Morgan_Freeman')
+graph = test.begin()
+print str(graph)
+graph_two = Graph()
+graph_two.open_json('data/test.json')
+print str(graph_two)
+
 
 
