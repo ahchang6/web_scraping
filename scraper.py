@@ -41,7 +41,7 @@ class Scraper:
         heading = soup.find(id="firstHeading")
         role = soup.find(class_='role')
         film_year = soup.find(class_='bday dtstart published updated')
-        year = 0
+        year = -1
         is_actor = True
         if role is None:
             is_actor = False
@@ -55,9 +55,7 @@ class Scraper:
         if is_actor and bday is not None:
             year = int(bday.string[:4])
         elif not is_actor:
-            if film_year is None:
-                year = 0
-            else:
+            if film_year is not None:
                 year = int(film_year.string[:4])
         return graph.add_vertex(heading.string, is_actor, year)
 
@@ -90,7 +88,6 @@ class Scraper:
                 row = row.find('a')
                 if row is None:
                     continue
-                print row
                 if row.string not in graph.vertex_list.keys():
                     parse_list.append(self.wikipedia + row.get('href'))
 
@@ -163,6 +160,81 @@ class Scraper:
             start_link = parse_list.pop(0)
             time.sleep(self.speed)
             cycle -= 1
-        print(str(graph))
+        # print(str(graph))
         graph.store_json(self.output)
         return graph
+
+    @staticmethod
+    def get_oldest_actors(graph, top_x):
+        """
+        returns the top_x olderst actors
+        :param graph: the graph to check
+        :param top_x: number of actors to return
+        :return: list of actors from oldest to youngest
+        """
+        curr_year = 2017
+        oldest_actors = {}
+        for actor in graph:
+            if actor.is_actor and actor.year != 0 and actor.year != -1:
+                oldest_actors[actor.year] = actor.node_id
+
+        sorted_oldest_actors = []
+        for sorted_year in sorted(oldest_actors.keys()):
+            age = " (" + str(2017-sorted_year) + ")"
+            sorted_oldest_actors.append(oldest_actors[sorted_year] + age)
+
+        return sorted_oldest_actors[:top_x]
+
+    @staticmethod
+    def get_movies(graph, year):
+        """
+        returns all movies in a given year
+        :param graph: graph to check
+        :param year: the year of the movies
+        :return: list of movies in year @year
+        """
+        movies = []
+        for movie in graph:
+            if not movie.is_actor and movie.year == year:
+                movies.append(movie.node_id)
+        return movies
+
+    @staticmethod
+    def get_actors(graph, year):
+        """
+        returns all actors in a given year
+        :param graph: graph to check
+        :param year: the year of the actors
+        :return: list of actors in year @year
+        """
+
+        movies = Scraper.get_movies(graph, year)
+        actors = []
+        for movie in movies:
+            for actor in graph.vertex_list[movie].return_neighbor():
+                actors.append(actor)
+
+        return actors
+
+    @staticmethod
+    def actor_in(graph, actor):
+        """
+        returns the movies the actor has acted in
+        :param graph: the graph to check
+        :param actor: the actor to check
+        :return: list of movies the actor has acted in
+        """
+
+        return graph.vertex_list[actor].return_neighbor()
+
+    @staticmethod
+    def movie_with(graph, movie):
+        """
+        returns the actors in movie
+        :param graph: the graph to check
+        :param movie: the movie to check
+        :return: list of actors in movie
+        """
+
+        return graph.vertex_list[movie].return_neighbor()
+
