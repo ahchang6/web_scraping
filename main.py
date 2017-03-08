@@ -1,11 +1,15 @@
 from graph import Graph
 from scraper import Scraper
+from flask import Flask, jsonify
 import logging
 
 
 logging.basicConfig(filename='test.log', level=logging.DEBUG)
 running = True
+
+app = Flask(__name__)
 graph = Graph()
+
 while running:
     print "Commands:"
     print "0: quit"
@@ -17,7 +21,7 @@ while running:
     if input[0] == '0':
         break
     if input[0] == '1':
-        test = Scraper('https://en.wikipedia.org/wiki/' + input[2:], 30)
+        test = Scraper('https://en.wikipedia.org/wiki/' + input[2:],  50)
         test.set_speed(1)
         graph = test.begin()
     if input[0] == '2':
@@ -30,6 +34,9 @@ while running:
 
 
 
+
+
+'''
 test_two = Scraper('https://en.wikipedia.org/wiki/Ryan_Reynolds', 30)
 test_two.set_speed(1)
 
@@ -42,4 +49,4 @@ print Scraper.actor_in(graph,"Chris Bender")
 print Scraper.movie_with(graph,"Blade: Trinity")
 
 
-
+'''

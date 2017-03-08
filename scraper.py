@@ -3,6 +3,7 @@ from graph import Graph
 import urllib2
 import time
 import logging
+import string
 
 
 class Scraper:
@@ -122,7 +123,9 @@ class Scraper:
             if len(actors) > 0:
                 weight = len(actors)
                 for person in actors:
-                    if person.string not in graph.vertex_list.keys():
+                    if person.string is None:
+                        continue
+                    if person.string not in graph.vertex_list.keys() and len(person.string.split()) > 1:
                         graph.add_undirected_edge(person.string, node.node_id, weight)
                         parse_list.append(self.wikipedia + person.get('href'))
                         weight -= 1
