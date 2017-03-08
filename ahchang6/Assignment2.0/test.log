@@ -1,0 +1,1321 @@
+DEBUG:root:Current cycle: 20 Current Link: https://en.wikipedia.org/wiki/Ryan_Reynolds
+INFO:root:Adding vertex: Ryan Reynolds
+DEBUG:root:Current cycle: 19 Current Link: https://en.wikipedia.org/wiki/Ordinary_Magic
+INFO:root:Adding vertex: Ordinary Magic
+INFO:root:Adding vertex: None
+DEBUG:root:Current cycle: 18 Current Link: https://en.wikipedia.org/wiki/Sabrina_the_Teenage_Witch_(film)
+INFO:root:Adding vertex: None
+INFO:root:Adding vertex: Melissa Joan Hart
+INFO:root:Adding vertex: Sabrina Sawyer
+INFO:root:Adding vertex: Sherry Miller
+INFO:root:Adding vertex: Aunt Hilda
+INFO:root:Adding vertex: Charlene Fernetz
+INFO:root:Adding vertex: Aunt Zelda
+INFO:root:Adding vertex: Michelle Beaudoin
+INFO:root:Adding vertex: Tobias Mehler
+INFO:root:Adding vertex: Harvey
+INFO:root:Adding vertex: Lalainia Lindbjerg
+INFO:root:Adding vertex: Laura Harris
+INFO:root:Adding vertex: Tyler Labine
+DEBUG:root:Current cycle: 17 Current Link: https://en.wikipedia.org/wiki/Coming_Soon_(1999_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Coming_Soon_(1999_film) did not find information
+DEBUG:root:Current cycle: 16 Current Link: https://en.wikipedia.org/wiki/Dick_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Dick_(film) did not find information
+DEBUG:root:Current cycle: 15 Current Link: https://en.wikipedia.org/wiki/Finder%27s_Fee
+INFO:root:Adding vertex: Finder's Fee
+DEBUG:root:Current cycle: 14 Current Link: https://en.wikipedia.org/wiki/Van_Wilder
+INFO:root:Adding vertex: Van Wilder
+INFO:root:Adding vertex: Peter Abrams
+INFO:root:Adding vertex: Robert L. Levy
+DEBUG:root:Current cycle: 13 Current Link: https://en.wikipedia.org/wiki/Buying_the_Cow
+INFO:root:Adding vertex: Buying the Cow
+INFO:root:Adding vertex: Jerry O'Connell
+INFO:root:Adding vertex: Bridgette Wilson
+INFO:root:Adding vertex: Alyssa Milano
+INFO:root:Adding vertex: Annabeth Gish
+DEBUG:root:Current cycle: 12 Current Link: https://en.wikipedia.org/wiki/The_In-Laws_(2003_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/The_In-Laws_(2003_film) did not find information
+DEBUG:root:Current cycle: 11 Current Link: https://en.wikipedia.org/wiki/Foolproof_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Foolproof_(film) did not find information
+DEBUG:root:Current cycle: 10 Current Link: https://en.wikipedia.org/wiki/Blade:_Trinity
+INFO:root:Adding vertex: Blade: Trinity
+INFO:root:Adding vertex: Wesley Snipes
+INFO:root:Adding vertex: Lynn Harris
+DEBUG:root:Current cycle: 9 Current Link: https://en.wikipedia.org/wiki/The_Amityville_Horror_(2005_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/The_Amityville_Horror_(2005_film) did not find information
+DEBUG:root:Current cycle: 8 Current Link: https://en.wikipedia.org/wiki/Waiting..._(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Waiting..._(film) did not find information
+DEBUG:root:Current cycle: 7 Current Link: https://en.wikipedia.org/wiki/Just_Friends
+INFO:root:Adding vertex: Just Friends
+INFO:root:Adding vertex: Chris Bender
+DEBUG:root:Current cycle: 6 Current Link: https://en.wikipedia.org/wiki/Smokin%27_Aces
+INFO:root:Adding vertex: Smokin' Aces
+DEBUG:root:Current cycle: 5 Current Link: https://en.wikipedia.org/wiki/The_Nines
+INFO:root:Adding vertex: The Nines
+DEBUG:root:Current cycle: 4 Current Link: https://en.wikipedia.org/wiki/Chaos_Theory_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Chaos_Theory_(film) did not find information
+DEBUG:root:Current cycle: 3 Current Link: https://en.wikipedia.org/wiki/Definitely,_Maybe
+INFO:root:Adding vertex: Definitely, Maybe
+INFO:root:Adding vertex: Tim Bevan
+INFO:root:Adding vertex: Eric Fellner
+DEBUG:root:Current cycle: 2 Current Link: https://en.wikipedia.org/wiki/Fireflies_in_the_Garden
+INFO:root:Adding vertex: Fireflies in the Garden
+DEBUG:root:Current cycle: 1 Current Link: https://en.wikipedia.org/wiki/Adventureland_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Adventureland_(film) did not find information
+DEBUG:root:Current cycle: 500 Current Link: https://en.wikipedia.org/wiki/Ryan_Reynolds
+INFO:root:Adding vertex: Ryan Reynolds
+DEBUG:root:Current cycle: 499 Current Link: https://en.wikipedia.org/wiki/Ordinary_Magic
+INFO:root:Adding vertex: Ordinary Magic
+INFO:root:Adding vertex: None
+DEBUG:root:Current cycle: 498 Current Link: https://en.wikipedia.org/wiki/Sabrina_the_Teenage_Witch_(film)
+INFO:root:Adding vertex: None
+INFO:root:Adding vertex: Melissa Joan Hart
+INFO:root:Adding vertex: Sabrina Sawyer
+INFO:root:Adding vertex: Sherry Miller
+INFO:root:Adding vertex: Aunt Hilda
+INFO:root:Adding vertex: Charlene Fernetz
+INFO:root:Adding vertex: Aunt Zelda
+INFO:root:Adding vertex: Michelle Beaudoin
+INFO:root:Adding vertex: Tobias Mehler
+INFO:root:Adding vertex: Harvey
+INFO:root:Adding vertex: Lalainia Lindbjerg
+INFO:root:Adding vertex: Laura Harris
+INFO:root:Adding vertex: Tyler Labine
+DEBUG:root:Current cycle: 497 Current Link: https://en.wikipedia.org/wiki/Coming_Soon_(1999_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Coming_Soon_(1999_film) did not find information
+DEBUG:root:Current cycle: 496 Current Link: https://en.wikipedia.org/wiki/Dick_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Dick_(film) did not find information
+DEBUG:root:Current cycle: 495 Current Link: https://en.wikipedia.org/wiki/Finder%27s_Fee
+INFO:root:Adding vertex: Finder's Fee
+DEBUG:root:Current cycle: 494 Current Link: https://en.wikipedia.org/wiki/Van_Wilder
+INFO:root:Adding vertex: Van Wilder
+INFO:root:Adding vertex: Peter Abrams
+INFO:root:Adding vertex: Robert L. Levy
+DEBUG:root:Current cycle: 493 Current Link: https://en.wikipedia.org/wiki/Buying_the_Cow
+INFO:root:Adding vertex: Buying the Cow
+INFO:root:Adding vertex: Jerry O'Connell
+INFO:root:Adding vertex: Bridgette Wilson
+INFO:root:Adding vertex: Alyssa Milano
+INFO:root:Adding vertex: Annabeth Gish
+DEBUG:root:Current cycle: 492 Current Link: https://en.wikipedia.org/wiki/The_In-Laws_(2003_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/The_In-Laws_(2003_film) did not find information
+DEBUG:root:Current cycle: 491 Current Link: https://en.wikipedia.org/wiki/Foolproof_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Foolproof_(film) did not find information
+DEBUG:root:Current cycle: 490 Current Link: https://en.wikipedia.org/wiki/Blade:_Trinity
+INFO:root:Adding vertex: Blade: Trinity
+INFO:root:Adding vertex: Wesley Snipes
+INFO:root:Adding vertex: Lynn Harris
+DEBUG:root:Current cycle: 489 Current Link: https://en.wikipedia.org/wiki/The_Amityville_Horror_(2005_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/The_Amityville_Horror_(2005_film) did not find information
+DEBUG:root:Current cycle: 488 Current Link: https://en.wikipedia.org/wiki/Waiting..._(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Waiting..._(film) did not find information
+DEBUG:root:Current cycle: 487 Current Link: https://en.wikipedia.org/wiki/Just_Friends
+INFO:root:Adding vertex: Just Friends
+INFO:root:Adding vertex: Chris Bender
+DEBUG:root:Current cycle: 486 Current Link: https://en.wikipedia.org/wiki/Smokin%27_Aces
+INFO:root:Adding vertex: Smokin' Aces
+DEBUG:root:Current cycle: 485 Current Link: https://en.wikipedia.org/wiki/The_Nines
+INFO:root:Adding vertex: The Nines
+DEBUG:root:Current cycle: 484 Current Link: https://en.wikipedia.org/wiki/Chaos_Theory_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Chaos_Theory_(film) did not find information
+DEBUG:root:Current cycle: 483 Current Link: https://en.wikipedia.org/wiki/Definitely,_Maybe
+INFO:root:Adding vertex: Definitely, Maybe
+INFO:root:Adding vertex: Tim Bevan
+INFO:root:Adding vertex: Eric Fellner
+DEBUG:root:Current cycle: 482 Current Link: https://en.wikipedia.org/wiki/Fireflies_in_the_Garden
+INFO:root:Adding vertex: Fireflies in the Garden
+DEBUG:root:Current cycle: 481 Current Link: https://en.wikipedia.org/wiki/Adventureland_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Adventureland_(film) did not find information
+DEBUG:root:Current cycle: 480 Current Link: https://en.wikipedia.org/wiki/X-Men_Origins:_Wolverine
+INFO:root:Adding vertex: X-Men Origins: Wolverine
+INFO:root:Adding vertex: Lauren Shuler Donner
+INFO:root:Adding vertex: Ralph Winter
+INFO:root:Adding vertex: Hugh Jackman
+DEBUG:root:Current cycle: 479 Current Link: https://en.wikipedia.org/wiki/The_Proposal_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/The_Proposal_(film) did not find information
+DEBUG:root:Current cycle: 478 Current Link: https://en.wikipedia.org/wiki/Paper_Man_(2009_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Paper_Man_(2009_film) did not find information
+DEBUG:root:Current cycle: 477 Current Link: https://en.wikipedia.org/wiki/Buried_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Buried_(film) did not find information
+DEBUG:root:Current cycle: 476 Current Link: https://en.wikipedia.org/wiki/Green_Lantern_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Green_Lantern_(film) did not find information
+DEBUG:root:Current cycle: 475 Current Link: https://en.wikipedia.org/wiki/The_Change-Up
+INFO:root:Adding vertex: The Change-Up
+INFO:root:Adding vertex: Neal H. Moritz
+DEBUG:root:Current cycle: 474 Current Link: https://en.wikipedia.org/wiki/The_Whale_(2011_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/The_Whale_(2011_film) did not find information
+DEBUG:root:Current cycle: 473 Current Link: https://en.wikipedia.org/wiki/Safe_House_(2012_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Safe_House_(2012_film) did not find information
+DEBUG:root:Current cycle: 472 Current Link: https://en.wikipedia.org/wiki/Ted_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Ted_(film) did not find information
+DEBUG:root:Current cycle: 471 Current Link: https://en.wikipedia.org/wiki/The_Croods
+INFO:root:Adding vertex: The Croods
+INFO:root:Adding vertex: Berlin
+DEBUG:root:Current cycle: 470 Current Link: https://en.wikipedia.org/wiki/Turbo_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Turbo_(film) did not find information
+DEBUG:root:Current cycle: 469 Current Link: https://en.wikipedia.org/wiki/R.I.P.D.
+INFO:root:Adding vertex: R.I.P.D.
+INFO:root:Adding vertex: Peter M. Lenkov
+INFO:root:Adding vertex: Mike Richardson
+DEBUG:root:Current cycle: 468 Current Link: https://en.wikipedia.org/wiki/The_Voices_(film)
+INFO:root:Adding vertex: The Voices
+INFO:root:Adding vertex: Adi Shankar
+INFO:root:Adding vertex: Roy Lee
+DEBUG:root:Current cycle: 467 Current Link: https://en.wikipedia.org/wiki/The_Captive_(2014_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/The_Captive_(2014_film) did not find information
+DEBUG:root:Current cycle: 466 Current Link: https://en.wikipedia.org/wiki/A_Million_Ways_to_Die_in_the_West
+INFO:root:Adding vertex: A Million Ways to Die in the West
+INFO:root:Adding vertex: Scott Stuber
+DEBUG:root:Current cycle: 465 Current Link: https://en.wikipedia.org/wiki/Mississippi_Grind
+INFO:root:Adding vertex: Mississippi Grind
+INFO:root:Adding vertex: Anna Boden
+INFO:root:Adding vertex: Ryan Fleck
+DEBUG:root:Current cycle: 464 Current Link: https://en.wikipedia.org/wiki/Woman_in_Gold_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Woman_in_Gold_(film) did not find information
+DEBUG:root:Current cycle: 463 Current Link: https://en.wikipedia.org/wiki/Self/less
+INFO:root:Adding vertex: Self/less
+INFO:root:Adding vertex: Ram Bergman
+INFO:root:Adding vertex: James D. Stern
+DEBUG:root:Current cycle: 462 Current Link: https://en.wikipedia.org/wiki/Deadpool_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Deadpool_(film) did not find information
+DEBUG:root:Current cycle: 461 Current Link: https://en.wikipedia.org/wiki/Criminal_(2016_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Criminal_(2016_film) did not find information
+DEBUG:root:Current cycle: 460 Current Link: https://en.wikipedia.org/wiki/The_Hitman%27s_Bodyguard
+INFO:root:Adding vertex: The Hitman's Bodyguard
+INFO:root:Adding vertex: David Ellison
+DEBUG:root:Current cycle: 459 Current Link: https://en.wikipedia.org/wiki/Life_(2017_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Life_(2017_film) did not find information
+DEBUG:root:Current cycle: 458 Current Link: https://en.wikipedia.org#Plot
+INFO:root:Adding vertex: Main Page
+INFO:root:Adding vertex: Arts
+INFO:root:Adding vertex: Biography
+INFO:root:Adding vertex: Geography
+DEBUG:root:Current cycle: 457 Current Link: https://en.wikipedia.org/wiki/Melissa_Joan_Hart
+INFO:root:Adding vertex: Melissa Joan Hart
+DEBUG:root:Current cycle: 456 Current Link: https://en.wikipedia.org/wiki/Sabrina_Sawyer
+INFO:root:Adding vertex: Sabrina Spellman
+DEBUG:root:Current cycle: 455 Current Link: https://en.wikipedia.org/wiki/Sherry_Miller
+INFO:root:Adding vertex: Sherry Miller
+DEBUG:root:Current cycle: 454 Current Link: https://en.wikipedia.org/wiki/Hilda_Spellman
+INFO:root:Adding vertex: Hilda Spellman
+DEBUG:root:Current cycle: 453 Current Link: https://en.wikipedia.org/wiki/Charlene_Fernetz
+INFO:root:Adding vertex: Charlene Fernetz
+DEBUG:root:Current cycle: 452 Current Link: https://en.wikipedia.org/wiki/Zelda_Spellman
+INFO:root:Adding vertex: Zelda Spellman
+DEBUG:root:Current cycle: 451 Current Link: https://en.wikipedia.org/wiki/Michelle_Beaudoin
+INFO:root:Adding vertex: Michelle Beaudoin
+DEBUG:root:Current cycle: 450 Current Link: https://en.wikipedia.org/wiki/Tobias_Mehler
+INFO:root:Adding vertex: Tobias Mehler
+DEBUG:root:Current cycle: 449 Current Link: https://en.wikipedia.org/wiki/List_of_Sabrina,_the_Teenage_Witch_characters#Harvey_Kinkle
+INFO:root:Adding vertex: List of Sabrina the Teenage Witch characters
+INFO:root:Adding vertex: A
+INFO:root:Adding vertex: B
+INFO:root:Adding vertex: C
+INFO:root:Adding vertex: D
+INFO:root:Adding vertex: E
+INFO:root:Adding vertex: F
+INFO:root:Adding vertex: G
+INFO:root:Adding vertex: H
+INFO:root:Adding vertex: I
+INFO:root:Adding vertex: J
+INFO:root:Adding vertex: K
+INFO:root:Adding vertex: L
+INFO:root:Adding vertex: M
+INFO:root:Adding vertex: N
+INFO:root:Adding vertex: O
+INFO:root:Adding vertex: P
+INFO:root:Adding vertex: Q
+INFO:root:Adding vertex: R
+INFO:root:Adding vertex: S
+INFO:root:Adding vertex: T
+INFO:root:Adding vertex: U
+INFO:root:Adding vertex: V
+INFO:root:Adding vertex: W
+INFO:root:Adding vertex: X
+INFO:root:Adding vertex: Y
+INFO:root:Adding vertex: Z
+DEBUG:root:Current cycle: 448 Current Link: https://en.wikipedia.org/wiki/Lalainia_Lindbjerg
+INFO:root:Adding vertex: Lalainia Lindbjerg
+DEBUG:root:Current cycle: 50 Current Link: https://en.wikipedia.org/wiki/Ryan_Reynolds
+INFO:root:Adding vertex: Ryan Reynolds
+DEBUG:root:Current cycle: 49 Current Link: https://en.wikipedia.org/wiki/Ordinary_Magic
+INFO:root:Adding vertex: Ordinary Magic
+INFO:root:Adding vertex: None
+DEBUG:root:Current cycle: 48 Current Link: https://en.wikipedia.org/wiki/Sabrina_the_Teenage_Witch_(film)
+INFO:root:Adding vertex: None
+INFO:root:Adding vertex: Melissa Joan Hart
+INFO:root:Adding vertex: Sabrina Sawyer
+INFO:root:Adding vertex: Sherry Miller
+INFO:root:Adding vertex: Aunt Hilda
+INFO:root:Adding vertex: Charlene Fernetz
+INFO:root:Adding vertex: Aunt Zelda
+INFO:root:Adding vertex: Michelle Beaudoin
+INFO:root:Adding vertex: Tobias Mehler
+INFO:root:Adding vertex: Harvey
+INFO:root:Adding vertex: Lalainia Lindbjerg
+INFO:root:Adding vertex: Laura Harris
+INFO:root:Adding vertex: Tyler Labine
+DEBUG:root:Current cycle: 47 Current Link: https://en.wikipedia.org/wiki/Coming_Soon_(1999_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Coming_Soon_(1999_film) did not find information
+DEBUG:root:Current cycle: 46 Current Link: https://en.wikipedia.org/wiki/Dick_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Dick_(film) did not find information
+DEBUG:root:Current cycle: 45 Current Link: https://en.wikipedia.org/wiki/Finder%27s_Fee
+INFO:root:Adding vertex: Finder's Fee
+DEBUG:root:Current cycle: 44 Current Link: https://en.wikipedia.org/wiki/Van_Wilder
+INFO:root:Adding vertex: Van Wilder
+INFO:root:Adding vertex: Peter Abrams
+INFO:root:Adding vertex: Robert L. Levy
+DEBUG:root:Current cycle: 43 Current Link: https://en.wikipedia.org/wiki/Buying_the_Cow
+INFO:root:Adding vertex: Buying the Cow
+INFO:root:Adding vertex: Jerry O'Connell
+INFO:root:Adding vertex: Bridgette Wilson
+INFO:root:Adding vertex: Alyssa Milano
+INFO:root:Adding vertex: Annabeth Gish
+DEBUG:root:Current cycle: 42 Current Link: https://en.wikipedia.org/wiki/The_In-Laws_(2003_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/The_In-Laws_(2003_film) did not find information
+DEBUG:root:Current cycle: 41 Current Link: https://en.wikipedia.org/wiki/Foolproof_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Foolproof_(film) did not find information
+DEBUG:root:Current cycle: 40 Current Link: https://en.wikipedia.org/wiki/Blade:_Trinity
+INFO:root:Adding vertex: Blade: Trinity
+INFO:root:Adding vertex: Wesley Snipes
+INFO:root:Adding vertex: Lynn Harris
+DEBUG:root:Current cycle: 39 Current Link: https://en.wikipedia.org/wiki/The_Amityville_Horror_(2005_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/The_Amityville_Horror_(2005_film) did not find information
+DEBUG:root:Current cycle: 38 Current Link: https://en.wikipedia.org/wiki/Waiting..._(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Waiting..._(film) did not find information
+DEBUG:root:Current cycle: 37 Current Link: https://en.wikipedia.org/wiki/Just_Friends
+INFO:root:Adding vertex: Just Friends
+INFO:root:Adding vertex: Chris Bender
+DEBUG:root:Current cycle: 36 Current Link: https://en.wikipedia.org/wiki/Smokin%27_Aces
+INFO:root:Adding vertex: Smokin' Aces
+DEBUG:root:Current cycle: 35 Current Link: https://en.wikipedia.org/wiki/The_Nines
+INFO:root:Adding vertex: The Nines
+DEBUG:root:Current cycle: 34 Current Link: https://en.wikipedia.org/wiki/Chaos_Theory_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Chaos_Theory_(film) did not find information
+DEBUG:root:Current cycle: 33 Current Link: https://en.wikipedia.org/wiki/Definitely,_Maybe
+INFO:root:Adding vertex: Definitely, Maybe
+INFO:root:Adding vertex: Tim Bevan
+INFO:root:Adding vertex: Eric Fellner
+DEBUG:root:Current cycle: 32 Current Link: https://en.wikipedia.org/wiki/Fireflies_in_the_Garden
+INFO:root:Adding vertex: Fireflies in the Garden
+DEBUG:root:Current cycle: 31 Current Link: https://en.wikipedia.org/wiki/Adventureland_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Adventureland_(film) did not find information
+DEBUG:root:Current cycle: 30 Current Link: https://en.wikipedia.org/wiki/X-Men_Origins:_Wolverine
+INFO:root:Adding vertex: X-Men Origins: Wolverine
+INFO:root:Adding vertex: Lauren Shuler Donner
+INFO:root:Adding vertex: Ralph Winter
+INFO:root:Adding vertex: Hugh Jackman
+DEBUG:root:Current cycle: 29 Current Link: https://en.wikipedia.org/wiki/The_Proposal_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/The_Proposal_(film) did not find information
+DEBUG:root:Current cycle: 28 Current Link: https://en.wikipedia.org/wiki/Paper_Man_(2009_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Paper_Man_(2009_film) did not find information
+DEBUG:root:Current cycle: 27 Current Link: https://en.wikipedia.org/wiki/Buried_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Buried_(film) did not find information
+DEBUG:root:Current cycle: 26 Current Link: https://en.wikipedia.org/wiki/Green_Lantern_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Green_Lantern_(film) did not find information
+DEBUG:root:Current cycle: 25 Current Link: https://en.wikipedia.org/wiki/The_Change-Up
+INFO:root:Adding vertex: The Change-Up
+INFO:root:Adding vertex: Neal H. Moritz
+DEBUG:root:Current cycle: 24 Current Link: https://en.wikipedia.org/wiki/The_Whale_(2011_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/The_Whale_(2011_film) did not find information
+DEBUG:root:Current cycle: 23 Current Link: https://en.wikipedia.org/wiki/Safe_House_(2012_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Safe_House_(2012_film) did not find information
+DEBUG:root:Current cycle: 22 Current Link: https://en.wikipedia.org/wiki/Ted_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Ted_(film) did not find information
+DEBUG:root:Current cycle: 21 Current Link: https://en.wikipedia.org/wiki/The_Croods
+INFO:root:Adding vertex: The Croods
+INFO:root:Adding vertex: Berlin
+DEBUG:root:Current cycle: 20 Current Link: https://en.wikipedia.org/wiki/Turbo_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Turbo_(film) did not find information
+DEBUG:root:Current cycle: 19 Current Link: https://en.wikipedia.org/wiki/R.I.P.D.
+INFO:root:Adding vertex: R.I.P.D.
+INFO:root:Adding vertex: Peter M. Lenkov
+INFO:root:Adding vertex: Mike Richardson
+DEBUG:root:Current cycle: 18 Current Link: https://en.wikipedia.org/wiki/The_Voices_(film)
+INFO:root:Adding vertex: The Voices
+INFO:root:Adding vertex: Adi Shankar
+INFO:root:Adding vertex: Roy Lee
+DEBUG:root:Current cycle: 17 Current Link: https://en.wikipedia.org/wiki/The_Captive_(2014_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/The_Captive_(2014_film) did not find information
+DEBUG:root:Current cycle: 16 Current Link: https://en.wikipedia.org/wiki/A_Million_Ways_to_Die_in_the_West
+INFO:root:Adding vertex: A Million Ways to Die in the West
+INFO:root:Adding vertex: Scott Stuber
+DEBUG:root:Current cycle: 15 Current Link: https://en.wikipedia.org/wiki/Mississippi_Grind
+INFO:root:Adding vertex: Mississippi Grind
+INFO:root:Adding vertex: Anna Boden
+INFO:root:Adding vertex: Ryan Fleck
+DEBUG:root:Current cycle: 14 Current Link: https://en.wikipedia.org/wiki/Woman_in_Gold_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Woman_in_Gold_(film) did not find information
+DEBUG:root:Current cycle: 13 Current Link: https://en.wikipedia.org/wiki/Self/less
+INFO:root:Adding vertex: Self/less
+INFO:root:Adding vertex: Ram Bergman
+INFO:root:Adding vertex: James D. Stern
+DEBUG:root:Current cycle: 12 Current Link: https://en.wikipedia.org/wiki/Deadpool_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Deadpool_(film) did not find information
+DEBUG:root:Current cycle: 11 Current Link: https://en.wikipedia.org/wiki/Criminal_(2016_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Criminal_(2016_film) did not find information
+DEBUG:root:Current cycle: 10 Current Link: https://en.wikipedia.org/wiki/The_Hitman%27s_Bodyguard
+INFO:root:Adding vertex: The Hitman's Bodyguard
+INFO:root:Adding vertex: David Ellison
+DEBUG:root:Current cycle: 9 Current Link: https://en.wikipedia.org/wiki/Life_(2017_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Life_(2017_film) did not find information
+DEBUG:root:Current cycle: 8 Current Link: https://en.wikipedia.org#Plot
+INFO:root:Adding vertex: Main Page
+INFO:root:Adding vertex: Arts
+INFO:root:Adding vertex: Biography
+INFO:root:Adding vertex: Geography
+DEBUG:root:Current cycle: 7 Current Link: https://en.wikipedia.org/wiki/Melissa_Joan_Hart
+INFO:root:Adding vertex: Melissa Joan Hart
+DEBUG:root:Current cycle: 6 Current Link: https://en.wikipedia.org/wiki/Sabrina_Sawyer
+INFO:root:Adding vertex: Sabrina Spellman
+DEBUG:root:Current cycle: 5 Current Link: https://en.wikipedia.org/wiki/Sherry_Miller
+INFO:root:Adding vertex: Sherry Miller
+DEBUG:root:Current cycle: 4 Current Link: https://en.wikipedia.org/wiki/Hilda_Spellman
+INFO:root:Adding vertex: Hilda Spellman
+DEBUG:root:Current cycle: 3 Current Link: https://en.wikipedia.org/wiki/Charlene_Fernetz
+INFO:root:Adding vertex: Charlene Fernetz
+DEBUG:root:Current cycle: 2 Current Link: https://en.wikipedia.org/wiki/Zelda_Spellman
+INFO:root:Adding vertex: Zelda Spellman
+DEBUG:root:Current cycle: 1 Current Link: https://en.wikipedia.org/wiki/Michelle_Beaudoin
+INFO:root:Adding vertex: Michelle Beaudoin
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 16:44:57] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 16:44:57] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 16:44:57] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 16:47:49] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 16:47:51] "GET / HTTP/1.1" 404 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 16:49:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 16:49:15] "GET /actors HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 16:50:16] "GET /actors HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 16:56:08] "GET /actors?attr=hi HTTP/1.1" 404 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 16:58:13] "GET /actors HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 16:58:13] "GET /actors?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 16:58:13] "GET /actors?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 16:58:13] "GET /actors?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 16:58:13] "GET /actors?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 16:58:13] "GET /actors?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 16:58:41] "GET /actors HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 16:58:41] "GET /actors?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 16:58:41] "GET /actors?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 16:58:41] "GET /actors?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 16:58:41] "GET /actors?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 16:58:41] "GET /actors?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 16:58:44] "GET /actors HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 16:58:44] "GET /actors?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 16:58:44] "GET /actors?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 16:58:44] "GET /actors?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 16:58:45] "GET /actors?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 16:58:45] "GET /actors?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:00:28] "GET /actors HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:01:39] "GET /actors HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:01:50] "GET /actors?attr=hello HTTP/1.1" 404 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:02:49] "GET /actors/attr/hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:02:53] "GET /actors/attr/Arts HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:Current cycle: 50 Current Link: https://en.wikipedia.org/wiki/Ryan_Reynolds
+INFO:root:Adding vertex: Ryan Reynolds
+DEBUG:root:Current cycle: 49 Current Link: https://en.wikipedia.org/wiki/Ordinary_Magic
+INFO:root:Adding vertex: Ordinary Magic
+DEBUG:root:Current cycle: 50 Current Link: https://en.wikipedia.org/wiki/Ryan_Reynolds
+INFO:root:Adding vertex: Ryan Reynolds
+DEBUG:root:Current cycle: 49 Current Link: https://en.wikipedia.org/wiki/Ordinary_Magic
+INFO:root:Adding vertex: Ordinary Magic
+DEBUG:root:Current cycle: 48 Current Link: https://en.wikipedia.org/wiki/Sabrina_the_Teenage_Witch_(film)
+INFO:root:Adding vertex: None
+INFO:root:Adding vertex: Melissa Joan Hart
+INFO:root:Adding vertex: Sabrina Sawyer
+INFO:root:Adding vertex: Sherry Miller
+INFO:root:Adding vertex: Aunt Hilda
+INFO:root:Adding vertex: Charlene Fernetz
+INFO:root:Adding vertex: Aunt Zelda
+INFO:root:Adding vertex: Michelle Beaudoin
+INFO:root:Adding vertex: Tobias Mehler
+INFO:root:Adding vertex: Lalainia Lindbjerg
+INFO:root:Adding vertex: Laura Harris
+INFO:root:Adding vertex: Tyler Labine
+DEBUG:root:Current cycle: 47 Current Link: https://en.wikipedia.org/wiki/Coming_Soon_(1999_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Coming_Soon_(1999_film) did not find information
+DEBUG:root:Current cycle: 46 Current Link: https://en.wikipedia.org/wiki/Dick_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Dick_(film) did not find information
+DEBUG:root:Current cycle: 45 Current Link: https://en.wikipedia.org/wiki/Finder%27s_Fee
+INFO:root:Adding vertex: Finder's Fee
+DEBUG:root:Current cycle: 44 Current Link: https://en.wikipedia.org/wiki/Van_Wilder
+INFO:root:Adding vertex: Van Wilder
+INFO:root:Adding vertex: Peter Abrams
+INFO:root:Adding vertex: Robert L. Levy
+DEBUG:root:Current cycle: 43 Current Link: https://en.wikipedia.org/wiki/Buying_the_Cow
+INFO:root:Adding vertex: Buying the Cow
+INFO:root:Adding vertex: Jerry O'Connell
+INFO:root:Adding vertex: Bridgette Wilson
+INFO:root:Adding vertex: Alyssa Milano
+INFO:root:Adding vertex: Annabeth Gish
+DEBUG:root:Current cycle: 42 Current Link: https://en.wikipedia.org/wiki/The_In-Laws_(2003_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/The_In-Laws_(2003_film) did not find information
+DEBUG:root:Current cycle: 41 Current Link: https://en.wikipedia.org/wiki/Foolproof_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Foolproof_(film) did not find information
+DEBUG:root:Current cycle: 40 Current Link: https://en.wikipedia.org/wiki/Blade:_Trinity
+INFO:root:Adding vertex: Blade: Trinity
+INFO:root:Adding vertex: Wesley Snipes
+INFO:root:Adding vertex: Lynn Harris
+DEBUG:root:Current cycle: 39 Current Link: https://en.wikipedia.org/wiki/The_Amityville_Horror_(2005_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/The_Amityville_Horror_(2005_film) did not find information
+DEBUG:root:Current cycle: 38 Current Link: https://en.wikipedia.org/wiki/Waiting..._(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Waiting..._(film) did not find information
+DEBUG:root:Current cycle: 37 Current Link: https://en.wikipedia.org/wiki/Just_Friends
+INFO:root:Adding vertex: Just Friends
+INFO:root:Adding vertex: Chris Bender
+DEBUG:root:Current cycle: 36 Current Link: https://en.wikipedia.org/wiki/Smokin%27_Aces
+INFO:root:Adding vertex: Smokin' Aces
+DEBUG:root:Current cycle: 35 Current Link: https://en.wikipedia.org/wiki/The_Nines
+INFO:root:Adding vertex: The Nines
+DEBUG:root:Current cycle: 34 Current Link: https://en.wikipedia.org/wiki/Chaos_Theory_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Chaos_Theory_(film) did not find information
+DEBUG:root:Current cycle: 33 Current Link: https://en.wikipedia.org/wiki/Definitely,_Maybe
+INFO:root:Adding vertex: Definitely, Maybe
+INFO:root:Adding vertex: Tim Bevan
+INFO:root:Adding vertex: Eric Fellner
+DEBUG:root:Current cycle: 32 Current Link: https://en.wikipedia.org/wiki/Fireflies_in_the_Garden
+INFO:root:Adding vertex: Fireflies in the Garden
+DEBUG:root:Current cycle: 31 Current Link: https://en.wikipedia.org/wiki/Adventureland_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Adventureland_(film) did not find information
+DEBUG:root:Current cycle: 30 Current Link: https://en.wikipedia.org/wiki/X-Men_Origins:_Wolverine
+INFO:root:Adding vertex: X-Men Origins: Wolverine
+INFO:root:Adding vertex: Lauren Shuler Donner
+INFO:root:Adding vertex: Ralph Winter
+INFO:root:Adding vertex: Hugh Jackman
+DEBUG:root:Current cycle: 29 Current Link: https://en.wikipedia.org/wiki/The_Proposal_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/The_Proposal_(film) did not find information
+DEBUG:root:Current cycle: 28 Current Link: https://en.wikipedia.org/wiki/Paper_Man_(2009_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Paper_Man_(2009_film) did not find information
+DEBUG:root:Current cycle: 27 Current Link: https://en.wikipedia.org/wiki/Buried_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Buried_(film) did not find information
+DEBUG:root:Current cycle: 26 Current Link: https://en.wikipedia.org/wiki/Green_Lantern_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Green_Lantern_(film) did not find information
+DEBUG:root:Current cycle: 25 Current Link: https://en.wikipedia.org/wiki/The_Change-Up
+INFO:root:Adding vertex: The Change-Up
+INFO:root:Adding vertex: Neal H. Moritz
+DEBUG:root:Current cycle: 24 Current Link: https://en.wikipedia.org/wiki/The_Whale_(2011_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/The_Whale_(2011_film) did not find information
+DEBUG:root:Current cycle: 23 Current Link: https://en.wikipedia.org/wiki/Safe_House_(2012_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Safe_House_(2012_film) did not find information
+DEBUG:root:Current cycle: 22 Current Link: https://en.wikipedia.org/wiki/Ted_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Ted_(film) did not find information
+DEBUG:root:Current cycle: 21 Current Link: https://en.wikipedia.org/wiki/The_Croods
+INFO:root:Adding vertex: The Croods
+DEBUG:root:Current cycle: 20 Current Link: https://en.wikipedia.org/wiki/Turbo_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Turbo_(film) did not find information
+DEBUG:root:Current cycle: 19 Current Link: https://en.wikipedia.org/wiki/R.I.P.D.
+INFO:root:Adding vertex: R.I.P.D.
+INFO:root:Adding vertex: Peter M. Lenkov
+INFO:root:Adding vertex: Mike Richardson
+DEBUG:root:Current cycle: 18 Current Link: https://en.wikipedia.org/wiki/The_Voices_(film)
+INFO:root:Adding vertex: The Voices
+INFO:root:Adding vertex: Adi Shankar
+INFO:root:Adding vertex: Roy Lee
+DEBUG:root:Current cycle: 17 Current Link: https://en.wikipedia.org/wiki/The_Captive_(2014_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/The_Captive_(2014_film) did not find information
+DEBUG:root:Current cycle: 16 Current Link: https://en.wikipedia.org/wiki/A_Million_Ways_to_Die_in_the_West
+INFO:root:Adding vertex: A Million Ways to Die in the West
+INFO:root:Adding vertex: Scott Stuber
+DEBUG:root:Current cycle: 15 Current Link: https://en.wikipedia.org/wiki/Mississippi_Grind
+INFO:root:Adding vertex: Mississippi Grind
+INFO:root:Adding vertex: Anna Boden
+INFO:root:Adding vertex: Ryan Fleck
+DEBUG:root:Current cycle: 14 Current Link: https://en.wikipedia.org/wiki/Woman_in_Gold_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Woman_in_Gold_(film) did not find information
+DEBUG:root:Current cycle: 13 Current Link: https://en.wikipedia.org/wiki/Self/less
+INFO:root:Adding vertex: Self/less
+INFO:root:Adding vertex: Ram Bergman
+INFO:root:Adding vertex: James D. Stern
+DEBUG:root:Current cycle: 12 Current Link: https://en.wikipedia.org/wiki/Deadpool_(film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Deadpool_(film) did not find information
+DEBUG:root:Current cycle: 11 Current Link: https://en.wikipedia.org/wiki/Criminal_(2016_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Criminal_(2016_film) did not find information
+DEBUG:root:Current cycle: 10 Current Link: https://en.wikipedia.org/wiki/The_Hitman%27s_Bodyguard
+INFO:root:Adding vertex: The Hitman's Bodyguard
+INFO:root:Adding vertex: David Ellison
+DEBUG:root:Current cycle: 9 Current Link: https://en.wikipedia.org/wiki/Life_(2017_film)
+INFO:root:Adding vertex: None
+ERROR:root:Link: https://en.wikipedia.org/wiki/Life_(2017_film) did not find information
+DEBUG:root:Current cycle: 8 Current Link: https://en.wikipedia.org/wiki/Melissa_Joan_Hart
+INFO:root:Adding vertex: Melissa Joan Hart
+DEBUG:root:Current cycle: 7 Current Link: https://en.wikipedia.org/wiki/Sabrina_Sawyer
+INFO:root:Adding vertex: Sabrina Spellman
+DEBUG:root:Current cycle: 6 Current Link: https://en.wikipedia.org/wiki/Sherry_Miller
+INFO:root:Adding vertex: Sherry Miller
+DEBUG:root:Current cycle: 5 Current Link: https://en.wikipedia.org/wiki/Hilda_Spellman
+INFO:root:Adding vertex: Hilda Spellman
+DEBUG:root:Current cycle: 4 Current Link: https://en.wikipedia.org/wiki/Charlene_Fernetz
+INFO:root:Adding vertex: Charlene Fernetz
+DEBUG:root:Current cycle: 3 Current Link: https://en.wikipedia.org/wiki/Zelda_Spellman
+INFO:root:Adding vertex: Zelda Spellman
+DEBUG:root:Current cycle: 2 Current Link: https://en.wikipedia.org/wiki/Michelle_Beaudoin
+INFO:root:Adding vertex: Michelle Beaudoin
+DEBUG:root:Current cycle: 1 Current Link: https://en.wikipedia.org/wiki/Tobias_Mehler
+INFO:root:Adding vertex: Tobias Mehler
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:15:20] "GET /actors/attr/Arts HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:15:27] "GET /actors/attr/ HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:15:30] "GET /actors/attr/a HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:15:44] "GET /actors/ HTTP/1.1" 404 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:22:20] "GET /actors/ HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:22:21] "GET /actors/ HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:22:25] "GET /actors/attr HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:22:29] "GET /actors/attr/ HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:22:31] "GET /actors/attr/ HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:22:43] "GET /actors/attr/a HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:28:20] "GET /actors/attr/a HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:28:20] "GET /actors/attr/a?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:28:20] "GET /actors/attr/a?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:28:20] "GET /actors/attr/a?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:28:20] "GET /actors/attr/a?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:28:20] "GET /actors/attr/a?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:29:23] "GET /actors/attr/a HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:29:30] "GET /actors/attr/e HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:29:33] "GET /actors/attr/ HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:29:37] "GET /actors/attr/vvf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:29:40] "GET /actors/attr/e HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:30:35] "GET /actors/attr/e HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:30:41] "GET /actors/att/a HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:34:50] "GET /actors/att/a HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:34:50] "GET /actors/att/a?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:34:50] "GET /actors/att/a?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:34:50] "GET /actors/att/a?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:34:51] "GET /actors/att/a?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:34:51] "GET /actors/att/a?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:37:23] "GET /actors/attr/e HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:37:23] "GET /actors/attr/e?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:37:23] "GET /actors/attr/e?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:37:23] "GET /actors/attr/e?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:37:23] "GET /actors/attr/e?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:37:23] "GET /actors/attr/e?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:37:52] "GET /actors/attr/e HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:37:52] "GET /actors/attr/e?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:37:56] "GET /actors/attr/e HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:37:56] "GET /actors/attr/e?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:37:56] "GET /actors/attr/e?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+ERROR:werkzeug:Error on request:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 205, in run_wsgi
+    execute(self.server.app)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 196, in execute
+    write(data)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 164, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:37:56] "GET /actors/attr/e?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+ERROR:werkzeug:Error on request:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 205, in run_wsgi
+    execute(self.server.app)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 196, in execute
+    write(data)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 164, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:37:56] "GET /actors/attr/e?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:38:02] "GET /actors/attr/e?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:38:02] "GET /actors/attr/e?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:38:02] "GET /actors/attr/e?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:38:02] "GET /actors/attr/e?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:38:21] "GET /actors/attr/e HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:38:21] "GET /actors/attr/e?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:38:21] "GET /actors/attr/e?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:38:21] "GET /actors/attr/e?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:38:21] "GET /actors/attr/e?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:38:21] "GET /actors/attr/e?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:38:23] "GET /actors/attr/e HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:38:23] "GET /actors/attr/e?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:38:23] "GET /actors/attr/e?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:38:23] "GET /actors/attr/e?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:38:23] "GET /actors/attr/e?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:38:23] "GET /actors/attr/e?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:38:24] "GET /actors/attr/e HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:38:24] "GET /actors/attr/e?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:38:24] "GET /actors/attr/e?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:38:24] "GET /actors/attr/e?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:38:24] "GET /actors/attr/e?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:38:24] "GET /actors/attr/e?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:39:44] "GET /actors/attr/e HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:39:52] "GET /actors/node_id/e HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:40:40] "GET /actors/year/e HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:40:40] "GET /actors/year/e?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:40:40] "GET /actors/year/e?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:40:40] "GET /actors/year/e?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:40:41] "GET /actors/year/e?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:40:41] "GET /actors/year/e?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:40:45] "GET /actors/year/0 HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:40:45] "GET /actors/year/0?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:40:45] "GET /actors/year/0?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:40:45] "GET /actors/year/0?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:40:46] "GET /actors/year/0?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:40:46] "GET /actors/year/0?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:40:51] "GET /actors/year/1 HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:40:51] "GET /actors/year/1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:40:51] "GET /actors/year/1?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:40:51] "GET /actors/year/1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:40:51] "GET /actors/year/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:40:51] "GET /actors/year/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:41:53] "GET /actors/year/1 HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:41:53] "GET /actors/year/1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:41:53] "GET /actors/year/1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:41:53] "GET /actors/year/1?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:41:53] "GET /actors/year/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:41:53] "GET /actors/year/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:41:54] "GET /actors/year/1 HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:41:54] "GET /actors/year/1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:41:54] "GET /actors/year/1?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:41:54] "GET /actors/year/1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:41:55] "GET /actors/year/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 17:41:55] "GET /actors/year/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 18:45:15] "GET /actors/attr/e HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 18:45:19] "GET /actors/year/e HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 18:45:21] "GET /actors/year/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 18:45:24] "GET /actors/year/1 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 18:45:50] "GET /actors/year/1 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 18:47:50] "GET /actors/year/1 HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 18:47:50] "GET /actors/year/1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 18:47:50] "GET /actors/year/1?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 18:47:50] "GET /actors/year/1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 18:47:50] "GET /actors/year/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 18:47:50] "GET /actors/year/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 18:52:21] "GET /actors/year/1 HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 18:52:21] "GET /actors/year/1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 18:52:21] "GET /actors/year/1?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 18:52:21] "GET /actors/year/1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 18:52:21] "GET /actors/year/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 18:52:22] "GET /actors/year/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 18:54:04] "GET /actors/year/1 HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 18:54:04] "GET /actors/year/1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 18:54:04] "GET /actors/year/1?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 18:54:04] "GET /actors/year/1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 18:54:04] "GET /actors/year/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 18:54:04] "GET /actors/year/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 18:54:27] "GET /actors/year/1 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 18:54:48] "GET /actors/year/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 18:54:57] "GET /actors/node_id/1 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 18:56:44] "GET /actors/node_id/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 18:56:45] "GET /actors/node_id/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 18:56:49] "GET /actors/node_id/e HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 18:56:54] "GET /actors/node_id/eH HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 18:56:56] "GET /actors/node_id/H HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 18:57:02] "GET /actors/node_id/h HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 18:57:07] "GET /actors/node_id/hi HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 18:57:10] "GET /actors/node_id/a HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 18:57:23] "GET /actors/node_id/f HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 18:57:39] "GET /actors/name/f HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 18:58:06] "GET /actors/name/f HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 18:59:49] "GET /actors/name/f HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/graph.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:27:58] "GET /actors/name/f HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:27:59] "GET /actors/name/f HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:28:17] "GET /actors/remove/Chris%20Bender HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:28:17] "GET /actors/remove/Chris%20Bender?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:28:17] "GET /actors/remove/Chris%20Bender?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:28:17] "GET /actors/remove/Chris%20Bender?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:28:17] "GET /actors/remove/Chris%20Bender?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:28:17] "GET /actors/remove/Chris%20Bender?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/graph.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/graph.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:32:16] "GET /actors/remove/Chris%20Bender HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:32:30] "GET /actors/name/aa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:32:34] "GET /actors/name/eifjefi HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/graph.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:35:42] "GET /actors/name/iejfe HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:35:49] "GET /actors/remove/Chris%20Bender HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:38:42] "GET /actors/all HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:38:45] "GET /actors/all/ HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:38:46] "GET /actors/all/f HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:39:03] "GET /actors/all/f HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:40:27] "GET /actors/all/f HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:41:09] "GET /actors/without/f HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:41:13] "GET /actors/without/f HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:44:20] "GET /actors/without/f HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:44:20] "GET /actors/without/f?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:44:20] "GET /actors/without/f?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:44:20] "GET /actors/without/f?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:44:20] "GET /actors/without/f?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:44:20] "GET /actors/without/f?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:46:42] "GET /actors/without/f HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:46:42] "GET /actors/without/f?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:46:42] "GET /actors/without/f?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:46:42] "GET /actors/without/f?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:46:42] "GET /actors/without/f?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:46:42] "GET /actors/without/f?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:47:16] "GET /actors/without/f HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:47:16] "GET /actors/without/f?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:47:16] "GET /actors/without/f?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:47:16] "GET /actors/without/f?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:47:16] "GET /actors/without/f?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:47:16] "GET /actors/without/f?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:47:51] "GET /actors/without/f HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:48:01] "GET /actors/without/f HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:48:02] "GET /actors/without/f HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:48:11] "GET /actors/without_a/f HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:48:24] "GET /actors/without_a/f HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:49:31] "GET /actors/without_name/f HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:52:10] "GET /actors/without_nme/f HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 19:52:16] "GET /actors/withoef/f HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 20:59:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:00:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:00:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:02:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:10:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:10:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:10:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:12:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:12:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:20:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:21:13] "GET / HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:21:13] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:21:13] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:21:13] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:21:13] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:21:13] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:25:20] "GET / HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:25:20] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:25:20] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:25:20] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:25:20] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:25:20] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:26:58] "GET / HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:26:58] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:27:04] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:27:04] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:27:04] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:27:04] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:27:15] "GET / HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:27:15] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:27:21] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:27:21] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:27:21] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:27:21] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:28:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:30:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:36:17] "GET /actors/find/a HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:38:03] "GET /actors/find/a HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:38:12] "GET /actors/with_name/a HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:38:56] "GET /actors/with_name/a HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:38:56] "GET /actors/with_name/a?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:38:56] "GET /actors/with_name/a?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:38:56] "GET /actors/with_name/a?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:38:56] "GET /actors/with_name/a?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:38:56] "GET /actors/with_name/a?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:40:40] "GET /actors/with_name/a HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:40:47] "GET /actors/with_name/A HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:40:53] "GET /actors/with_name/all HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:43:35] "GET /actors/with_name/all HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:43:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:49:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:56:24] "GET /actor/with_name/a HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:56:30] "GET /actors/with_name/a HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:56:43] "GET /actors/with_name/av HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2017 21:57:07] "GET /actors/with_name/all HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/graph.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2017 00:45:30] "GET /actors/put/1 HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2017 00:45:30] "GET /actors/put/1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2017 00:45:30] "GET /actors/put/1?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2017 00:45:30] "GET /actors/put/1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2017 00:45:30] "GET /actors/put/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2017 00:45:30] "GET /actors/put/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2017 00:49:48] "GET /actors/put/1 HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2017 00:49:48] "GET /actors/put/1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2017 00:49:48] "GET /actors/put/1?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2017 00:49:48] "GET /actors/put/1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2017 00:49:48] "GET /actors/put/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2017 00:49:48] "GET /actors/put/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2017 00:50:56] "GET /actors/put/1 HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2017 00:50:56] "GET /actors/put/1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2017 00:50:56] "GET /actors/put/1?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2017 00:50:56] "GET /actors/put/1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2017 00:50:56] "GET /actors/put/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2017 00:50:56] "GET /actors/put/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2017 01:00:02] "GET /actors/put/1 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2017 18:13:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2017 21:00:21] "GET /actor/with/all/all HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2017 21:00:38] "GET /actor/with/name/a HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2017 21:00:41] "GET /actor/with/name/e HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2017 21:00:43] "GET /actor/with/name/f HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Mar/2017 21:00:49] "GET /actor/without/name/f HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177
+INFO:werkzeug: * Detected change in '/home/ahchang6/IdeaProjects/CS242HW0/Assignment2.0/api.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 107-086-177

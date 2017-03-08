@@ -31,6 +31,12 @@ class Graph:
             return_string += "[ " + str(nodeName) + " ] "
         return return_string
 
+    def add_vertex(self, node):
+        if node.node_id not in self.vertex_list.keys():
+            self.vertex_list[node.node_id] = node
+            self.graph_size += 1
+            return node
+
     def add_vertex(self, node, is_actor, year):
         """
         Adds a vertex with the node_id of node
@@ -78,6 +84,21 @@ class Graph:
         """
         self.add_edge(node_one, node_two, weight)
         self.add_edge(node_two, node_one, weight)
+
+    def remove_edge(self, node_one, node_two_name):
+        if node_two_name in node_one.neighbor.keys():
+            del node_one.neighbor[node_two_name]
+
+    def remove_vertex(self, node_name):
+        if node_name in self.vertex_list.keys():
+            del self.vertex_list[node_name]
+        else:
+            return 1
+        for vertex in self:
+            self.remove_edge(vertex, node_name)
+        self.graph_size -= 1
+        return 0
+
 
     def store_json(self, outfile_name):
         """
